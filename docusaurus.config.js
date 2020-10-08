@@ -8,17 +8,20 @@ module.exports = {
   organizationName: 'nickrakovsky', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      disableSwitch: true,
+    },
     navbar: {
-      title: 'DataDocks',
+      // title: 'DataDocks',
       logo: {
         alt: 'DataDocks Logo',
-        src: 'img/logo.svg',
+        src: 'img/datadocks-logo.png',
       },
       items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentation',
           position: 'left',
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
@@ -26,7 +29,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} DataDocks, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DataDocks, Inc.`,
     },
   },
   presets: [
@@ -35,15 +38,10 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: "/",
           // Please change this to your repo.
           editUrl:
             'https://github.com/nickrakovsky/docs/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/nickrakovsky/docs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
