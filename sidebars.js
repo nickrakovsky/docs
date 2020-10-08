@@ -6,6 +6,6 @@ module.exports = {
       'features/closures',
       'features/docks'
     ],
-    API: ['api/authentication', 'api/appointments', 'api/purchase_orders'],
+    API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders'],
   },
 };

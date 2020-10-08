@@ -3,7 +3,7 @@ id: purchase_orders
 title: Purchase Orders
 ---
 
-Substitute your token for the square brackets following `tk=`
+Substitute your token for the square brackets placeholder in the header portion, and your location subdomain in the url portion as indicated below.
 
 ## Retreiving a List of Purchase Orders
 
@@ -16,23 +16,6 @@ If your API token is `12345`, and your location subdomain is `toronto.acme` this
 ```
 curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase_orders
 ```
-
-### Pagination
-
-Pagination is specified using the `page` query parameter. For example, to retrieve the second page of results you would pass `page=2` like this:
-
-```
-curl -H "X_AUTH_TOKEN: [api_token]" https://[location_subdomain].datadocks.com/api/v1/purchase_orders?page=2
-```
-
-
-The following pagination headers are present in the response:
-
-* "Current-Page". For example: `Current-Page: 1`
-* "Page-Items". For example: `Page-Items: 20`
-* "Total-Pages". For example: `Total-Pages: 2`
-* "Total-Count". For example: `Total-Count: 40`
-* "Link". For example: `Link: <https://toronto.acme.datadocks.com/api/v1/purchase_orders?page=1>; rel="first", <https://toronto.acme.datadocks.com/api/v1/purchase_orders?page=2>; rel="next", <https://toronto.acme.datadocks.com/api/v1/purchase_orders?page=4>; rel="last"`
 
 
 ### Sample Payload
