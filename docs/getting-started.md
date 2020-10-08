@@ -1,8 +1,10 @@
 ---
-id: api1
+id: getting-started
 title: Getting Started
 sidebar_label: Getting Started
-slug: /api/api1
+slug: /
 ---
 
-API
+## Sign up for a Demo
+
+TODO
