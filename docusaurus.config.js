@@ -19,12 +19,11 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: '/',
           activeBasePath: 'docs',
           label: 'Documentation',
           position: 'left',
         },
-        // {to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
     footer: {
