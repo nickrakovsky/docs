@@ -5,17 +5,14 @@ title: Authentication
 
 Before you can start making API calls inot DataDocks you will need to ask us for a token you can use to authenticate each of your API calls.
 
+This token will need to be placed in the header of all requests as `X_AUTH_TOKEN`.
+
 ## Example
 
-Assuming an API token of `1234567890`.
+Assuming an API token of `1234567890` and a location subdomain of `toronto.acme`.
 
-In order to call our API you will need to attach this token as a parameter to each of your calls like so:
-`http://api.datadocs.com/api/v1/appointments?tk=1234567890`
+A call to our API to retrieve appointments would look like this:
 
-## Testing
+`curl -H "X_AUTH_TOKEN: 1234567890" http://toronto.acme.datadocs.com/api/v1/appointments`
 
-You can test your token to make sure it works by running the following bash command from a unix / linux / osx terminal. Replacing the value following `tk=` with the unique token we provided for you.
-
-```
-curl -I http://api.datadocs.com/api/v1/appointments?tk=1234567890
-```
+Simply substitute your your token and your location subdomain.
