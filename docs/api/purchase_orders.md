@@ -100,4 +100,112 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase
 ]
 ```
 
+## Purchase Order Fields
+
+### id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier.
+* Possible Values: Cannot be set externally.
+
+### location_id
+
+* Type: Integer
+* Required: False
+* Description: DataDocks internal unique location identifier.
+* Possible Values: Optioanal. Purchase order's don't have to be location specific.
+
+
+### po_number
+
+* Type: String
+* Required: True
+* Description: Purchase order number.
+
+### name
+
+* Type: String
+* Required: True
+* Description: Name that DataDocks assembled internally based on the values in fields and purchase order items.
+* Possible Values: Cannot be set externally.
+
+### carrier_name
+
+* Type: String
+* Required: False
+* Description: The name of the carrier the purchase order is assigned to.
+
+### outbound
+
+* Type: Boolean
+* Required: True
+* Description: True if it is an outbound purchase order, False if it is an inbound purchase order. Defaults to False.
+
+### expected_starts_at
+
+* Type: DateTime
+* Required: False
+* Description: When the purchase order is expected to start.
+
+### expected_ends_at
+
+* Type: DateTime
+* Required: False
+* Description: When the purchase order is expected to end.
+
+### custom_values
+
+* Type: Hash
+* Required: False
+* Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the pourchase order.
+
+### purchase_order_items
+
+* Type: Array
+* Required: False
+* Description: The items (packing lists) belonging to the purchase order.
+
+#### purchase_order_items > id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier.
+* Possible Values: Cannot be set externally.
+
+#### purchase_order_items > product_id
+
+* Type: Int
+* Required: False
+* Description: DataDocks internal unique identifier for the product the item is associated with.
+
+#### purchase_order_items > unit_id
+
+* Type: Int
+* Required: False
+* Description: DataDocks internal unique identifier for the unit the item is associated with.
+
+#### purchase_order_items > customer_name
+
+* Type: String
+* Required: False
+* Description: The name of the customer the item is associated with. 
+
+#### purchase_order_items > booked_quantity
+
+* Type: Decimal
+* Required: False
+* Description: The quantity.
+
+#### purchase_order_items > booked_weight
+
+* Type: Decimal
+* Required: False
+* Description: The weight.
+
+#### purchase_order_items > custom_values
+
+* Type: Hash
+* Required: False
+* Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the item.
 
