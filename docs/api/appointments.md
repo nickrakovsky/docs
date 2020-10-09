@@ -49,6 +49,12 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/appointm
     "completed_at": "2020-09-24T13:35:00-04:00",
     "left_at": "2020-09-25T13:35:00-04:00",
     "cancelled_at": null,
+    "custom_values": {
+      "expected_at": "2020-10-01",
+      "travel_type": "Truck",
+      "forklift_operator": "Sue",
+      "inspection_passed": "1"
+    },
     "packing_lists": [
       {
         "id": 4,
@@ -84,13 +90,7 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/appointm
         "body": "Third note."
       }
     ],
-    "documents": [],
-    "custom_values": {
-      "expected_at": "2020-10-01",
-      "travel_type": "Truck",
-      "forklift_operator": "Sue",
-      "inspection_passed": "1"
-    }
+    "documents": []
   },
   {
     "id": 2,
@@ -118,6 +118,11 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/appointm
     "completed_at": "2020-09-24T13:35:00-04:00",
     "left_at": "2020-09-25T13:35:00-04:00",
     "cancelled_at": null,
+    "custom_values": {
+      "expected_at": "2020-09-22",
+      "travel_type": "Ship",
+      "forklift_operator": "Mary"
+    },
     "packing_lists": [
       {
         "id": 5,
@@ -164,12 +169,279 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/appointm
         "body": "This is another note."
       }
     ],
-    "documents": [],
-    "custom_values": {
-      "expected_at": "2020-09-22",
-      "travel_type": "Ship",
-      "forklift_operator": "Mary"
-    }
+    "documents": []
   }
 ]
 ```
+
+## Appointment Fields
+
+### id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier.
+* Possible Values: Cannot be set externally.
+
+### created_by_id
+
+* Type: Integer
+* Required: True
+* Description: The internal DataDocks ID of the user who created the appointment.
+* Possible Values: A valid user with access to the appointment's location.
+
+### appointment_number
+
+* Type: Integer
+* Required: True
+* Description: The automatically sequenced number for the appointment.
+* Possible Values: Cannot be set externally.
+
+### state
+
+* Type: String
+* Required: True
+* Description: The state / status of the appointments.
+* Possible Values:
+    * `needs_booking`
+    * `pending`
+    * `booked`
+    * `arrived`
+    * `started`
+    * `completed`
+    * `left`
+    * `cancelled`
+
+### dock_id
+
+* Type: Integer
+* Required: False
+* Description: The internal DataDocks ID of the dock the appointment is assigned to.
+* Possible Values: A valid dock at the appointment's location.
+
+### yard_id
+
+* Type: Integer
+* Required: False
+* Description: The internal DataDocks ID of the yard the appointment is assigned to.
+* Possible Values: A valid yard at the appointment's location.
+
+### duration
+
+* Type: Integer
+* Required: True
+* Description: The duration of the appointment in minutes.
+* Possible Values: Must be greater than 0.
+
+### shipping_number
+
+* Type: String
+* Required: False
+* Description: The shipping number.
+
+### trailer_number
+
+* Type: String
+* Required: False
+* Description: The trailer number.
+
+### bol_number
+
+* Type: String
+* Required: False
+* Description: The BOL number.
+
+### carrier_id
+
+* Type: Integer
+* Required: False
+* Description: The internal DataDocks ID of the carrier the appointment is assigned to.
+* Possible Values: A valid carrier in the appointment's organization.
+
+### carrier_name
+
+* Type: String
+* Required: False
+* Description: The name of the carrier the appointment is assigned to.
+
+### carrier_email
+
+* Type: String
+* Required: False
+* Description: The email of the carrier the appointment is assigned to if not carrier was found / specified.
+
+### driver_name
+
+* Type: String
+* Required: False
+* Description: The driver.
+
+### outbound
+
+* Type: Boolean
+* Required: True
+* Description: True if it is an outbound appointment, False if it is an inbound appointment. Defaults to False.
+
+### drop_trailer
+
+* Type: Boolean
+* Required: True
+* Description: Whether or not it's a drop trailer. Defaults to False.
+
+### queued
+
+* Type: Boolean
+* Required: True
+* Description: Whether or not it's been queued for a specific date, but not yet scheduled. Defaults to False.
+
+### free_until
+
+* Type: DateTime
+* Required: False
+* Description: ?
+
+### scheduled_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment is scheduled for.
+
+### approved_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment was approved.
+
+### arrived_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment arrived.
+
+### started_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment started processing.
+
+### completed_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment completed processing.
+
+### left_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment left the property.
+
+### cancelled_at
+
+* Type: DateTime
+* Required: False
+* Description: When the appointment was cancelled.
+
+### custom_values
+
+* Type: Hash
+* Required: False
+* Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the appointment.
+
+### packing_lists
+
+* Type: Array
+* Required: False
+* Description: The packing lists belonging to the appointment.
+
+#### packing_lists > id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier.
+* Possible Values: Cannot be set externally.
+
+#### packing_lists > po_number
+
+* Type: String
+* Required: False
+* Description: Purchase order number the packing list is associated with.
+
+#### packing_lists > product_id
+
+* Type: Int
+* Required: False
+* Description: DataDocks internal unique identifier for the product the packing list is associated with.
+
+#### packing_lists > unit_id
+
+* Type: Int
+* Required: False
+* Description: DataDocks internal unique identifier for the unit the packing list is associated with.
+
+#### packing_lists > customer_name
+
+* Type: String
+* Required: False
+* Description: The name of the customer the packing list is associated with. 
+
+#### packing_lists > booked_quantity
+
+* Type: Decimal
+* Required: False
+* Description: The booked quantity.
+
+#### packing_lists > booked_weight
+
+* Type: Decimal
+* Required: False
+* Description: The booked weight.
+
+#### packing_lists > actual_quantity
+
+* Type: Decimal
+* Required: False
+* Description: The actual quantity.
+
+#### packing_lists > actual_weight
+
+* Type: Decimal
+* Required: False
+* Description: The actual weight.
+
+#### packing_lists > custom_values
+
+* Type: Hash
+* Required: False
+* Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the packing list.
+
+### notes
+
+* Type: Array
+* Required: False
+* Description: The notes attached to the appointment.
+
+#### notes > id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier.
+* Possible Values: Cannot be set externally.
+
+#### notes > user_id
+
+* Type: Integer
+* Required: True
+* Description: DataDocks internal unique identifier for the user that created the note.
+
+#### notes > body
+
+* Type: String
+* Required: True
+* Description: The contents / body of the note.
+
+### documents
+
+* Type: Array
+* Required: False
+* Description: The documents attached to the appointment.

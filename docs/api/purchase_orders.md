@@ -31,6 +31,11 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase
     "outbound": false,
     "expected_starts_at": "2020-10-09T13:35:00-04:00",
     "expected_ends_at": "2020-10-15T13:35:00-04:00",
+    "custom_values": {
+      "expected_at": "2020-10-09",
+      "travel_type": "Plane",
+      "forklift_operator": "Joe "
+    },
     "purchase_order_items": [
       {
         "id": 2,
@@ -50,12 +55,7 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase
         "weight": 581,
         "custom_values": {}
       }
-    ],
-    "custom_values": {
-      "expected_at": "2020-10-09",
-      "travel_type": "Plane",
-      "forklift_operator": "Joe "
-    }
+    ]
   },
   {
     "id": 2,
@@ -66,6 +66,10 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase
     "outbound": false,
     "expected_starts_at": "2020-09-30T13:35:00-04:00",
     "expected_ends_at": "2020-10-14T13:35:00-04:00",
+    "custom_values": {
+      "travel_type": "Bike",
+      "forklift_operator": "Frank"
+    },
     "purchase_order_items": [
       {
         "id": 3,
@@ -91,11 +95,9 @@ curl -H "X_AUTH_TOKEN: 12345" https://toronto.acme.datadocks.com/api/v1/purchase
           "forklift_operator": "Jenny"
         }
       }
-    ],
-    "custom_values": {
-      "travel_type": "Bike",
-      "forklift_operator": "Frank"
-    }
+    ]
   }
 ]
 ```
+
+
