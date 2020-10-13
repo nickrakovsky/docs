@@ -6,7 +6,7 @@ title: Pagination
 Pagination is specified using the `page` query parameter. For example, to retrieve the second page of appointments results you would pass `page=2` like this:
 
 ```
-curl -H "X_AUTH_TOKEN: [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?page=2
+curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?page=2
 ```
 
 ### Responder Headers
