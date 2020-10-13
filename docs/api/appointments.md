@@ -6,7 +6,9 @@ slug: /api/appointments
 
 Substitute your token for the square brackets placeholder in the header portion, and your location subdomain in the url portion as indicated below.
 
-## Retreiving a List of Appointments
+## Listing
+
+You can fetch the list of appointments using the following API call:
 
 ```
 curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments
@@ -16,6 +18,45 @@ If your API token is `12345`, and your location subdomain is `toronto.acme` this
 
 ```
 curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/appointments
+```
+
+You can pass the following parameters to filter the list of appointments returned:
+
+### Filtering
+
+#### po_number
+
+* Type: String
+* Description: The purchase order number to filter on. This is an exact match if provided.
+
+```
+curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?po_number=12345
+```
+
+#### from
+
+* Type: String representation of a date / time.
+* Description: Filter results scheduled on or after the passed date / time. The date / time passed will be localized to the location's timezone.
+
+```
+curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?from=2020-01-01%2012:00%20PM
+```
+
+#### to
+
+* Type: String representation of a date / time.
+* Description: Filter results scheduled before the passed date / time. The date / time passed will be localized to the location's timezone.
+
+```
+curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?to=2020-01-02%2012:00%20PM
+```
+
+#### Combining Filters
+
+You can combine parameters by separating them with an ampersand like so:
+
+```
+curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments?po_number=12345&from=2020-01-01%2012:00%20PM&to=2020-01-02%2012:00%20PM
 ```
 
 
@@ -165,7 +206,7 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 ]
 ```
 
-## Appointment Fields
+## Fields
 
 ### id
 

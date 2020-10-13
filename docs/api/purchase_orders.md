@@ -5,7 +5,9 @@ title: Purchase Orders
 
 Substitute your token for the square brackets placeholder in the header portion, and your location subdomain in the url portion as indicated below.
 
-## Retreiving a List of Purchase Orders
+## Listing
+
+You can fetch the list of purchase orders using the following API call:
 
 ```
 curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/purchase_orders
@@ -100,7 +102,7 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
 ]
 ```
 
-## Purchase Order Fields
+## Fields
 
 ### id
 
