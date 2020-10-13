@@ -161,528 +161,6 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
       }
     ],
     "documents": []
-  },
-  {
-    "id": 3,
-    "appointment_number": 3,
-    "state": "booked",
-    "duration": 60,
-    "shipping_number": "86462",
-    "trailer_number": null,
-    "bol_number": "72260",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T10:08:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 4,
-    "appointment_number": 4,
-    "state": "booked",
-    "duration": 120,
-    "shipping_number": "18359",
-    "trailer_number": null,
-    "bol_number": "43293",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T09:38:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 5,
-    "appointment_number": 5,
-    "state": "booked",
-    "duration": 60,
-    "shipping_number": "83882",
-    "trailer_number": null,
-    "bol_number": "11056",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T12:11:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 6,
-    "appointment_number": 6,
-    "state": "booked",
-    "duration": 180,
-    "shipping_number": "11783",
-    "trailer_number": null,
-    "bol_number": "17666",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T10:08:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 7,
-    "appointment_number": 7,
-    "state": "needs_booking",
-    "duration": 120,
-    "shipping_number": "40092",
-    "trailer_number": null,
-    "bol_number": "57209",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 8,
-    "appointment_number": 8,
-    "state": "booked",
-    "duration": 90,
-    "shipping_number": "48460",
-    "trailer_number": null,
-    "bol_number": "62258",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T12:11:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 9,
-    "appointment_number": 9,
-    "state": "needs_booking",
-    "duration": 60,
-    "shipping_number": "62949",
-    "trailer_number": null,
-    "bol_number": "74284",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 10,
-    "appointment_number": 10,
-    "state": "needs_booking",
-    "duration": 60,
-    "shipping_number": "24606",
-    "trailer_number": null,
-    "bol_number": "96194",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 11,
-    "appointment_number": 11,
-    "state": "left",
-    "duration": 60,
-    "shipping_number": "90591",
-    "trailer_number": null,
-    "bol_number": "98146",
-    "carrier_name": "Sobeys",
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": "Yard A",
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-09-22T13:35:00-04:00",
-    "arrived_at": null,
-    "started_at": "2020-09-24T13:35:00-04:00",
-    "completed_at": "2020-09-24T13:35:00-04:00",
-    "left_at": "2020-09-25T13:35:00-04:00",
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 12,
-    "appointment_number": 12,
-    "state": "left",
-    "duration": 180,
-    "shipping_number": "3399",
-    "trailer_number": null,
-    "bol_number": "9766",
-    "carrier_name": "FedEx",
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": "Yard B",
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-09-22T13:35:00-04:00",
-    "arrived_at": null,
-    "started_at": "2020-09-24T13:35:00-04:00",
-    "completed_at": "2020-09-24T13:35:00-04:00",
-    "left_at": "2020-09-25T13:35:00-04:00",
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 13,
-    "appointment_number": 13,
-    "state": "needs_booking",
-    "duration": 150,
-    "shipping_number": "63207",
-    "trailer_number": null,
-    "bol_number": "35729",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": "Dock 1",
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 14,
-    "appointment_number": 14,
-    "state": "needs_booking",
-    "duration": 180,
-    "shipping_number": "21925",
-    "trailer_number": null,
-    "bol_number": "44226",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": "Dock 2",
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 15,
-    "appointment_number": 15,
-    "state": "needs_booking",
-    "duration": 150,
-    "shipping_number": "99981",
-    "trailer_number": null,
-    "bol_number": "75382",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": "Dock 3",
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 16,
-    "appointment_number": 16,
-    "state": "booked",
-    "duration": 120,
-    "shipping_number": "58122",
-    "trailer_number": null,
-    "bol_number": "79273",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": "2020-10-06T09:38:00-04:00",
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 17,
-    "appointment_number": 17,
-    "state": "needs_booking",
-    "duration": 150,
-    "shipping_number": "89954",
-    "trailer_number": null,
-    "bol_number": "34756",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 18,
-    "appointment_number": 18,
-    "state": "needs_booking",
-    "duration": 60,
-    "shipping_number": "51458",
-    "trailer_number": null,
-    "bol_number": "45153",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 19,
-    "appointment_number": 19,
-    "state": "needs_booking",
-    "duration": 150,
-    "shipping_number": "40918",
-    "trailer_number": null,
-    "bol_number": "8243",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": true,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
-  },
-  {
-    "id": 20,
-    "appointment_number": 20,
-    "state": "needs_booking",
-    "duration": 30,
-    "shipping_number": "80242",
-    "trailer_number": null,
-    "bol_number": "10527",
-    "carrier_name": null,
-    "driver_name": null,
-    "created_by": "Sysadmin",
-    "outbound": false,
-    "drop_trailer": false,
-    "queued": false,
-    "dock": null,
-    "yard": null,
-    "free_until": null,
-    "scheduled_at": null,
-    "approved_at": null,
-    "arrived_at": null,
-    "started_at": null,
-    "completed_at": null,
-    "left_at": null,
-    "cancelled_at": null,
-    "custom_values": {},
-    "packing_lists": [],
-    "notes": [],
-    "documents": []
   }
 ]
 ```
@@ -695,13 +173,6 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Required: True
 * Description: DataDocks internal unique identifier.
 * Possible Values: Cannot be set externally.
-
-### created_by_id
-
-* Type: Integer
-* Required: True
-* Description: The internal DataDocks ID of the user who created the appointment.
-* Possible Values: A valid user with access to the appointment's location.
 
 ### appointment_number
 
@@ -724,20 +195,6 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
     * `completed`
     * `left`
     * `cancelled`
-
-### dock_id
-
-* Type: Integer
-* Required: False
-* Description: The internal DataDocks ID of the dock the appointment is assigned to.
-* Possible Values: A valid dock at the appointment's location.
-
-### yard_id
-
-* Type: Integer
-* Required: False
-* Description: The internal DataDocks ID of the yard the appointment is assigned to.
-* Possible Values: A valid yard at the appointment's location.
 
 ### duration
 
@@ -764,13 +221,6 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Required: False
 * Description: The BOL number.
 
-### carrier_id
-
-* Type: Integer
-* Required: False
-* Description: The internal DataDocks ID of the carrier the appointment is assigned to.
-* Possible Values: A valid carrier in the appointment's organization.
-
 ### carrier_name
 
 * Type: String
@@ -789,6 +239,12 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Required: False
 * Description: The driver.
 
+### created_by
+
+* Type: String
+* Required: False
+* Description: The name of the user who created the appointment.
+
 ### outbound
 
 * Type: Boolean
@@ -806,6 +262,20 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Type: Boolean
 * Required: True
 * Description: Whether or not it's been queued for a specific date, but not yet scheduled. Defaults to False.
+
+### dock
+
+* Type: String
+* Required: False
+* Description: The name of the dock the appointment is assigned to.
+* Possible Values: A valid dock at the appointment's location.
+
+### yard
+
+* Type: String
+* Required: False
+* Description: The name of the yard the appointment is assigned to.
+* Possible Values: A valid yard at the appointment's location.
 
 ### free_until
 
@@ -880,23 +350,23 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Required: False
 * Description: Purchase order number the packing list is associated with.
 
-#### packing_lists > product_id
-
-* Type: Int
-* Required: False
-* Description: DataDocks internal unique identifier for the product the packing list is associated with.
-
-#### packing_lists > unit_id
-
-* Type: Int
-* Required: False
-* Description: DataDocks internal unique identifier for the unit the packing list is associated with.
-
 #### packing_lists > customer_name
 
 * Type: String
 * Required: False
 * Description: The name of the customer the packing list is associated with. 
+
+#### packing_lists > product
+
+* Type: Int
+* Required: False
+* Description: The name of the product the packing list is associated with.
+
+#### packing_lists > unit
+
+* Type: Int
+* Required: False
+* Description: The name of the unit the packing list is associated with.
 
 #### packing_lists > booked_quantity
 
@@ -940,12 +410,6 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/a
 * Required: True
 * Description: DataDocks internal unique identifier.
 * Possible Values: Cannot be set externally.
-
-#### notes > user_id
-
-* Type: Integer
-* Required: True
-* Description: DataDocks internal unique identifier for the user that created the note.
 
 #### notes > body
 
