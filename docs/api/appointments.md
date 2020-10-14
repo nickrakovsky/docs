@@ -78,8 +78,8 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
     "outbound": false,
     "drop_trailer": false,
     "queued": false,
-    "dock": "Dock 2",
-    "yard": null,
+    "dock_name": "Dock 2",
+    "yard_name": null,
     "free_until": null,
     "scheduled_at": "2020-09-30T06:00:00-04:00",
     "approved_at": "2020-09-22T13:35:00-04:00",
@@ -99,8 +99,8 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
         "id": 4,
         "po_number": "A-2000",
         "customer_name": "FishCo",
-        "product": "Trout",
-        "unit": "Skid",
+        "product_name": "Trout",
+        "unit_name": "Skid",
         "booked_quantity": 10,
         "booked_weight": 152,
         "actual_quantity": 12,
@@ -142,8 +142,8 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
     "outbound": true,
     "drop_trailer": false,
     "queued": false,
-    "dock": null,
-    "yard": "Yard A",
+    "dock_name": null,
+    "yard_name": "Yard A",
     "free_until": null,
     "scheduled_at": "2020-09-22T13:00:00-04:00",
     "approved_at": "2020-09-22T13:35:00-04:00",
@@ -162,8 +162,8 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
         "id": 5,
         "po_number": "A-4000",
         "customer_name": "FishCo",
-        "product": "Trout",
-        "unit": "Skid",
+        "product_name": "Trout",
+        "unit_name": "Skid",
         "booked_quantity": 13,
         "booked_weight": 298,
         "actual_quantity": 12,
@@ -178,8 +178,8 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
         "id": 6,
         "po_number": "B-4000",
         "customer_name": "FishCo",
-        "product": "Trout",
-        "unit": "Skid",
+        "product_name": "Trout",
+        "unit_name": "Skid",
         "booked_quantity": 16,
         "booked_weight": 111,
         "actual_quantity": 17,
@@ -304,14 +304,14 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 * Required: True
 * Description: Whether or not it's been queued for a specific date, but not yet scheduled. Defaults to False.
 
-### dock
+### dock_name
 
 * Type: String
 * Required: False
 * Description: The name of the dock the appointment is assigned to.
 * Possible Values: A valid dock at the appointment's location.
 
-### yard
+### yard_name
 
 * Type: String
 * Required: False
@@ -397,15 +397,15 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 * Required: False
 * Description: The name of the customer the packing list is associated with. 
 
-#### packing_lists > product
+#### packing_lists > product_name
 
-* Type: Int
+* Type: String
 * Required: False
 * Description: The name of the product the packing list is associated with.
 
-#### packing_lists > unit
+#### packing_lists > unit_name
 
-* Type: Int
+* Type: String
 * Required: False
 * Description: The name of the unit the packing list is associated with.
 

@@ -29,7 +29,7 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
     "po_number": "A-1000",
     "name": "A-1000-FastCo-Cereal",
     "carrier_name": "FastCo",
-    "location": "Toronto",
+    "location_name": "Toronto",
     "outbound": false,
     "expected_starts_at": "2020-10-09T13:35:00-04:00",
     "expected_ends_at": "2020-10-15T13:35:00-04:00",
@@ -42,8 +42,8 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
       {
         "id": 2,
         "customer_name": "FishCo",
-        "product": "Trout",
-        "unit": "Skid",
+        "product_name": "Trout",
+        "unit_name": "Skid",
         "quantity": 16,
         "weight": 102,
         "custom_values": {}
@@ -51,8 +51,8 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
       {
         "id": 1,
         "customer_name": "FishCo",
-        "product": "Cereal",
-        "unit": "Skid",
+        "product_name": "Cereal",
+        "unit_name": "Skid",
         "quantity": 33,
         "weight": 581,
         "custom_values": {}
@@ -64,7 +64,7 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
     "po_number": "A-2000",
     "name": "A-2000-FastCo-Laptops",
     "carrier_name": "FastCo",
-    "location": "Vancouver",
+    "location_name": "Vancouver",
     "outbound": false,
     "expected_starts_at": "2020-09-30T13:35:00-04:00",
     "expected_ends_at": "2020-10-14T13:35:00-04:00",
@@ -76,8 +76,8 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
       {
         "id": 3,
         "customer_name": "FishCo",
-        "product": "Laptops",
-        "unit": "Box",
+        "product_name": "Laptops",
+        "unit_name": "Box",
         "quantity": 40,
         "weight": 795,
         "custom_values": {
@@ -88,8 +88,8 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
       {
         "id": 4,
         "customer_name": "FishCo",
-        "product": "Trout",
-        "unit": "Skid",
+        "product_name": "Trout",
+        "unit_name": "Skid",
         "quantity": 10,
         "weight": 152,
         "custom_values": {
@@ -130,7 +130,7 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
 * Required: False
 * Description: The name of the carrier the purchase order is assigned to.
 
-### location
+### location_name
 
 * Type: String
 * Required: False
@@ -180,15 +180,15 @@ curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/p
 * Required: False
 * Description: The name of the customer the item is associated with. 
 
-#### purchase_order_items > product
+#### purchase_order_items > product_name
 
-* Type: Int
-* Required: False
+* Type: String
+* Required: True
 * Description: Name of the product the item is associated with.
 
-#### purchase_order_items > unit
+#### purchase_order_items > unit_name
 
-* Type: Int
+* Type: String
 * Required: False
 * Description: Name of the unit the item is associated with.
 
