@@ -7,20 +7,19 @@ The packing list report is a complete summary of all packing lists that have bee
 
 Select a date range for your appointment report, you can also choose a specific carrier/customer and a specific purchase order number. 
 
- 
+![Search](/img/docs/reports/packing-list-reports/main-search.jpg)
 
 You can select either inbound or outbound.
 
-
+![Inbound or Outbound](/img/docs/reports/packing-list-reports/inbound-outbound.jpg)
  
-
 You may also select the appointment status. Click the search button to begin the search. 
 
- 
+![Select the Type](/img/docs/reports/packing-list-reports/type-select.jpg)
 
 Your packing list report contains the following default fields:
 
- 
+![Main Screen](/img/docs/reports/packing-list-reports/native-screen.jpg) 
 
 APPT #: The auto-generated appointment number.
 
@@ -58,9 +57,5 @@ UNIT: The unit associated with the packing list.
 
 You may need to scroll across the screen to see all of the fields in the packing list report. 
 
+![Scroll for More](/img/docs/reports/packing-list-reports/scroll-bottom.jpg)
  
- 
- 
-
-
-![Status](/img/docs/reports/appointment-durations-report/status-bar1.jpg)IMAGE reports-nav
