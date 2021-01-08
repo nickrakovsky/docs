@@ -26,7 +26,6 @@ module.exports = {
       'reports/appointment-audit-logs',
       'reports/appointment-durations',
       'reports/appointment-summary-report',
-      'reports/packing-list-reports',
       'reports/packing-list-reports'
     ],
     API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders'],
