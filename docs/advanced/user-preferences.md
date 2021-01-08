@@ -53,7 +53,7 @@ DEFAULT APPOINTMENTS AS OUTBOUND: Select this box if your organization schedules
 
 All appointment statuses have a color associated with them, you may choose to modify the default color scheme as desired. NOTE: DataDocks recommends to leave any pending appointment in the red color, this is a visual indicator that this appointment needs your attention. 
 
-![Colors Available](/img/docs/advanced/user-preferences/colors.jpg) IMAGE colors
+![Colors Available](/img/docs/advanced/user-preferences/colors.jpg)
 
 You may use the built in color picker to change the color of your appointment status’. 
 

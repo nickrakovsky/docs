@@ -21,7 +21,12 @@ module.exports = {
       'advanced/user-preferences'
     ],
     Reports: [
-      'reports/about-reports'
+      'reports/about-reports',
+      'reports/appointments-on-property',
+      'reports/appointment-audit-logs',
+      'reports/appointment-durations',
+      'reports/appointment-summary-report',
+      'reports/packing-list-reports'
     ],
     API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders'],
   },
