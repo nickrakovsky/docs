@@ -24,7 +24,7 @@ module.exports = {
       'reports/about-reports',
       'reports/appointments-on-property',
       'reports/appointment-audit-logs',
-      'reports/appointment-durations',
+      'reports/appointment-duration',
       'reports/appointment-summary-report',
       'reports/packing-list-reports'
     ],
