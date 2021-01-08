@@ -1,10 +1,27 @@
 module.exports = {
   someSidebar: {
-    DataDocks: ['getting-started', 'contacting-support'],
-    Features: [
-      'features/calendar',
-      'features/closures',
-      'features/docks'
+    DataDocks: ['about', 'getting-started', 'understanding-basics', 'contacting-support'],
+    Appointments: [
+      'appointments/working-with',
+      'appointments/summary-view'
+    ],
+    Advanced: [
+      'advanced/purchase-orders',
+      'advanced/companies',
+      'advanced/closures',
+      'advanced/products',
+      'advanced/users',
+      'advanced/docks',
+      'advanced/yards',
+      'advanced/inspection-checklists',
+      'advanced/custom-fields',
+      'advanced/units',
+      'advanced/bulk-uploads',
+      'advanced/location-settings',
+      'advanced/user-preferences'
+    ],
+    Reports: [
+      'reports/about-reports'
     ],
     API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders'],
   },
