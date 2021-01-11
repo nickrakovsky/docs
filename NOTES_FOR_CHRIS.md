@@ -2,7 +2,7 @@
 2. Type: cd Documents/github/docs
 3. Type: yarn start
 
-This will launch your browser previewing the documentation site.
+This will  launch your browser previewing the documentation site.
 
 Ctrl-C to stop the server (in powershell)
 `yarn start` to restart the server (up arrow repeats the last command in your history)
