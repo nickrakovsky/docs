@@ -3,7 +3,15 @@ id: closures
 title: Closures
 ---
 
-Closures refers to a physical closure at one or more locations. In some cases, these are weekends or holidays, or they may occur due to an unforeseen incident where the location is closed. Closures can affect all cocks, and all users. Your docks can also be set to a reduced capacity.  
+#### Watch the Video - Understanding Closures in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ajWE6PAt4qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Closures in DataDocks (3:06)
+***
+
+Closures refers to a physical closure at one or more locations. In some cases, these are weekends or holidays, or they may occur due to an unforeseen incident where the location is closed. Closures can affect all docks, and all users. Your docks can also be set to a reduced capacity.  
 
 ![New Closure](/img/docs/advanced/closures/new.jpg)
 

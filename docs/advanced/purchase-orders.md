@@ -3,6 +3,14 @@ id: purchase-orders
 title: Purchase Orders
 ---
 
+#### Watch the Video - Working with Purchase Orders in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/D3PnKME17fY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Working with Purchase Orders in DataDocks (3:28)
+***
+
 Purchase orders are uniquely identified by their numbers. These are attached to appointments and reported on in the reporting modules. Purchase orders and tracking purchase order fulfillment is a key feature of the DataDocks platform. To begin adding a new purchase order, click on the New Purchase Order button. Please note that if your team uses another identifying name for loads such as order number, we can rename this field to suit your preference.
 
 ![Main View](/img/docs/advanced/purchase-orders/main.jpg)

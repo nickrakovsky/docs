@@ -3,6 +3,14 @@ id: user-preferences
 title: User Preferences
 ---
 
+#### Watch the Video - User Preferences in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fp7vPzHno9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+User Preferences in DataDocks (3:13)
+***
+
 User preferences is the advanced section that lets you customize how you use DataDocks. It includes 6 sections: personal details, notify me when, customize calendar, colours and color picker, appointment field names and customize reports. 
 
 ![Main Screen](/img/docs/advanced/user-preferences/main.jpg)

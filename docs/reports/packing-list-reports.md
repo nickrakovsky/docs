@@ -3,6 +3,14 @@ id: packing-list-reports
 title: Packing List Reports
 ---
 
+#### Watch the Video - Understanding Packing List Reports in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iIToL5ylNu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Packing List Reports in DataDocks (1:20)
+***
+
 The packing list report is a complete summary of all packing lists that have been created in your DataDocks platform. This is a historical report which allows you to search for packing lists by specific parameters. 
 
 Select a date range for your appointment report, you can also choose a specific carrier/customer and a specific purchase order number. 

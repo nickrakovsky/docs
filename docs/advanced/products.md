@@ -3,6 +3,14 @@ id: products
 title: Products
 ---
 
+#### Watch the Video - Understanding Products in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ajWE6PAt4qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Products in DataDocks (1:19)
+***
+
 Products are specific product items that you want to use for purchase order matching, fulfillment and reporting. These are specific to your organization. Organize your products against SKU’s to ensure that DataDocks is reporting on the correct SKU that you may use with other systems, this will make it easier for bulk uploading information.     
 
 Click on the New Product button to begin adding products, one at a time.

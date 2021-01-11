@@ -3,6 +3,14 @@ id: appointment-summary-report
 title: Appointment Summary Report
 ---
 
+#### Watch the Video - Understanding Appointment Summary Reports in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/y88-T5NhIQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Appointment Summary Reports in DataDocks (1:09)
+***
+
 The appointment summary report is a dashboard style report that includes key metrics for all of your completed appointments. 
 
 Check your appointment status bar to ensure you close off any open appointments that have completed. 

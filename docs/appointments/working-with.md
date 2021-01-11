@@ -4,24 +4,50 @@ sidebar_label: Working With Appointments
 title: Creating, Editing, and Working with Appointments
 ---
 
+## Creating an Appointment
+
+#### Watch the Video - Creating an Appointment in Datadocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5KXInmvn1HI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Creating an Appointment in Datadocks (0:53)
+***
 Creating and managing appointments is the core offering of the DataDocks platform. In this section, we will explain how to create an appointment and how to move that appointment in the calendar view. Creating an Appointment:
 
 Via the calendar itself – the green colored ‘New Appointment” bar can be dragged onto a specific date, time, queue or drop location on the calendar. In this example, we’ll drag the new appointment bar to 11:00 A.M..
 
 ![Drag and Drop](/img/docs/appointments/appt-drag-drop.jpg)
 
-The Appointment Dialog Screen
+## The Appointment Dialog Screen
+
+#### Watch the Video - The Appointment Dialog Screen in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/q2WckFVyJ3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+The Appointment Dialog Screen in DataDocks (2:07)
+***
 
 The appointment dialog screen is your main screen to edit all appointment types. For both those appointments created by you, or created by your carriers/customers. Let’s understand the workflow in the appointment dialog screen. 
 
 ![Appointment Status Bar](/img/docs/appointments/status-bar.jpg)
+
+## Appointment Status' in DataDocks
+
+#### Watch the Video - Understanding Appointment Status' in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fVgNhNgh25g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Appointment Status' in DataDocks (1:11)
+***
 
 Understanding Status’: The status indicator is your clickable appointment workflow. These steps are organized into 2 sections:
 
 1.	Needs Booking – Pending Approval – Booked
 
 ![Appointment Status Bar](/img/docs/appointments/status-bar-1.jpg)
-
 
 2.	Arrived – Started – Completed – Left
 
@@ -45,8 +71,7 @@ Left - The truck has left the property and the appointment is completed.
 
 NOTE: Unscheduled – Unscheduled is an appointment with no date or time associated with it. User should move the appointment into the arrived status when the unscheduled appointment arrives. 
 
-
-Fields in the Appointment Dialog Screen
+## Fields in the Appointment Dialog Screen
 
 ![Appointment Fields](/img/docs/appointments/appt-fields.jpg)
 
@@ -161,6 +186,14 @@ Click on the Create button at the bottom of the screen. You will see a notificat
 Click on the Back button to return to the calendar view. 
 
 ### Moving Appointments in the Calendar View
+
+#### Watch the Video - Working with Appointments on the Calendar View
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OwH6VNsW2uY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Working with Appointments on the Calendar View (1:56)
+***
 
 You can move your appointments to different time slots in the calendar view. Simply click and drag an appointment to the time slot of your choosing: NOTE: carriers/customers have created appointments on your calendar, if you choose to move an appointment time slot, these changes are sent through the notification system to your carrier/customer. They may not be able to accommodate that change. For example, if you move an appointment to an earlier time slot on the same day, the carrier/customer may not be able to change their delivery time. You own your calendar, however it’s important to understand that the changes you make, can affect your carriers/customers schedules. 
 

@@ -3,6 +3,14 @@ id: inspection-checklists
 title: Inspection Checklists
 ---
 
+#### Watch the Video - Inspection Checklists In DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/kJGkqpAfJEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Inspection Checklists In DataDocks (2:11)
+***
+
 Inspection checklists are items that you want to include, that are reported on as loads are unloaded. These are typically forms that include items such as: Damage, temperature (for some loads), vendor compliance fields, cleanliness of vehicle etc. DataDocks lets you customize your inspection checklist to suit your organization. Inspection checklists can be accessed on each appointment dialog screen that you create. They are completed after the vehicle has unloaded. These checklists can be essential for reporting on your carriers/customers. You can make these checklists as simple, or as comprehensive as you wish. You can access the inspection checklists from any appointment dialog screen. 
 
 ![Inspection Checklist Screen](/img/docs/advanced/inspection-checklists/appt-screen.jpg)

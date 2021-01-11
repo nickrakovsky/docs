@@ -3,6 +3,14 @@ id: appointment-durations
 title: Appointment Durations Report
 ---
 
+#### Watch the Video - Understanding Appointment Duration Reports in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/djKbry4ad3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Appointment Duration Reports in DataDocks (1:16)
+***
+
 This report lets your organization track your appointment durations, to ensure that the carriers/customers are keeping within their appointment times for arrival and unloading. Only appointments that have been completed are part of this report. 
 
 Check your appointment status bar to ensure you close off any open appointments. 

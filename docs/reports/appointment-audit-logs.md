@@ -3,6 +3,13 @@ id: appointment-audit-logs
 title: Appointment Audit Logs
 ---
 
+#### Watch the Video - Understanding Appointment Audit Log Reports in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ooy7ZLPhh18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding Appointment Audit Log Reports in DataDocks (2:26)
+***
 Appointment audit logs is a complete repository of your created, edited and completed appointments. This is your appointment history, with information provided on when it was last edited and all other related appointment information. 
 
 ![Main Screen](/img/docs/reports/appointment-audit-logs/main.jpg)

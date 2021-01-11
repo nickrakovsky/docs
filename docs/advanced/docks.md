@@ -3,6 +3,15 @@ id: docks
 title: Docks
 ---
 
+#### Watch the Video - Dock Locations in DataDocks
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TLGpSxGIqmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Video - Dock Locations in DataDocks (1:27)
+***
+
+
+
 Docks are physical docks at your locations. If you have dedicated docks for inbound or outbound, you can specify them in the new dock dialog screen. 
 
 ![New Dock](/img/docs/advanced/docks/new.jpg)

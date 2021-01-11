@@ -5,6 +5,14 @@ title: Understanding the Basics
 
 ## Your Company – Your Carriers/Customers
 
+#### Watch the Video - Understanding your Organization and your Carriers and Customers
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OPoz2wQwYcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding your Organization and your Carriers and Customers (1:35)
+***
+
 DataDocks was created to help improve the flow of communication around your scheduled appointments, this could be at your organization, with your carrier and customer partners, and with your suppliers and vendors. The other important principal to understand is that you can invite your carriers and customers to book appointments at your docks. You have complete control of the appointments that are booked. DataDocks eliminates repetitive back and forth via phone or email which helps you and your organization save time, eliminate or decrease demurrage and detention costs and have a reporting system so you can monitor the ability of your partners to deliver on time. Visual below, explains the delineation between your organization and your partners. 
 
 ![Road Graphic](/img/docs/getting-started/road-graphic.png)
@@ -19,6 +27,14 @@ DataDocks was created to help improve the flow of communication around your sche
 
 ## Your Default View
 
+#### Watch the Video - Understanding and Navigating the Calendar View
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f0UKzPj-8jg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Understanding and Navigating the Calendar View (1:36)
+***
+
 The Calendar view is your default view or “home screen” for the DataDocks platform. This is the workspace that you will spend time monitoring, editing and working with. Let’s get to know the workspace and its components.
 
 ![Main Navigation](/img/docs/getting-started/main-navigation.jpg)
@@ -29,6 +45,14 @@ Companies and Users have a determined hierarchy, identical to a parent/child rel
 
 
 ## Setting up Companies
+
+#### Watch the Video - Creating Companies and Users
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lalpd-Anba4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Creating Companies and Users (3:05)
+***
 
 Setting up companies (carriers, customers) is the first step in the invitation process. In this step we will walk through how to set up Acme Shipping as your first carrier/customer. 
 
@@ -73,7 +97,7 @@ After you have created the company, the company list screen appears. For this ex
 
 ![Create Company](/img/docs/getting-started/newcompany-create.jpg)
 
-Adding Users and Giving Companies Access to DataDocks
+### Adding Users and Giving Companies Access to DataDocks
 
 Now that the company has been created you can now add users to that company. These are the users that will be invited to your DataDocks platform to create appointments on your docks. Click on users to get started. 
 
@@ -93,6 +117,6 @@ After you enter that email address, an automated email goes out to that user. Th
 
 NOTE: The email that is sent to the user comes from the address noreply@datadocks.app, many organizations use an email spam filter, it is important to follow up with your user to make sure this invitation did not go into their spam folder. DataDocks has an excellent domain rating which means that email invites to users should not go into their spam email folder; however, it is recommended to make sure they received the invitation. Once they accept and create their own account, you will be notified that they have been added.  If they have not accepted the invitation, after 10 minutes you can resend the invitation. If they do not receive an email after the second time please contact DataDocks.
 
-Continue Adding Companies and Users to those Companies
+### Continue adding Companies and Users to those Companies
 
 Many organizations have multiple carriers and customers that they will want to add to their DataDocks platform. Repeat the procedure for adding companies and users to those companies to suit your organizations specific requirements. 

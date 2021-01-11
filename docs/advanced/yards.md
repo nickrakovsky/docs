@@ -3,6 +3,15 @@ id: yards
 title: Yards
 ---
 
+
+#### Watch the Video - Yard Locations In DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/V6wdLNGPa4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Yard Locations In DataDocks (1:17)
+***
+
 Yards are the yard locations you want to specify when a carrier or customer is dropping a trailer or shipment, or you want to simply track yard locations that are full or empty. An organization can have multiple yards, and yard locations are subordinate to the yard name. If you have 3 yard locations like in our Acme Shipping example, then you would add three yards. See example below which outlines how to do so. 
 
 Start adding yard locations by clicking on the New Yard button. 

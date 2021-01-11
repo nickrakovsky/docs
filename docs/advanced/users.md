@@ -3,6 +3,13 @@ id: users
 title: Users
 ---
 
+#### Watch the Video - Managing Users in Datadocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WkrBwk6szhQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Managing Users in Datadocks (1:21)
+***
 Users are your internal organizational users in your instance of DataDocks. These are typically your co-workers, or others at your organization who require user access to DataDocks.
 
 ## Inviting a User 

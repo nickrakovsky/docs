@@ -3,6 +3,14 @@ id: companies
 title: Companies
 ---
 
+#### Watch the Video - Adding Companies in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ygTjLnLw9VA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Adding Companies in DataDocks in DataDocks (3:06)
+***
+
 There will be occasions where your organization will change carriers/customers and you will need to edit the company information. This example will walk through how to remove and edit a company within your DataDocks platform.
 
 ![Main Companies Screen](/img/docs/advanced/companies/main.jpg)

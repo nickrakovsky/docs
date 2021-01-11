@@ -3,6 +3,14 @@ id: units
 title: Units
 ---
 
+#### Watch the Video - Units in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/U_bQ3I8zsxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Units in DataDocks (0:50)
+***
+
 Units are an element that helps you understand quantities in DataDocks. In relation to a product, which has a specific SKU, a unit is a single measure of that product. For example, consider units alongside products. If you want to add a packing list you will see these fields:
 
 ![Units Screen](/img/docs/advanced/units/example-screen.jpg)

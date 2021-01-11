@@ -3,6 +3,14 @@ id: appointments-on-property
 title: Appointments on Property Report
 ---
 
+#### Watch the Video - Appointments on Property Reports in DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T9hHa3msqQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Appointments on Property Reports in DataDocks (1:12)
+***
+
 This report shows you how many active appointments have physically arrived at your location and are currently still on the property at the time of viewing the report. 
 
 The appointments on property report gives you a status of all the vehicles on your property at the time of viewing.

@@ -3,11 +3,19 @@ id: location-settings
 title: Location Settings
 ---
 
+#### Watch the Video - Location Settings In DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0N2yrWSCoI0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Location Settings In DataDocks (1:26)
+***
+
 Location Settings is used to manage messages to your users, both internal users and the users that access your carrier/customer portal. 
 
 ![Location Settings Screen](/img/docs/advanced/location-settings/full-screen.jpg)
 
-Calendar Footer Body
+## Calendar Footer Body
 
 If you wish to display a global message to your user group, you may enter it here and format that message with the toolbar provided. 
 
@@ -17,7 +25,7 @@ In this example we wrote “High Volume on Saturday, No more bookings please!”
 
 ![Location Settings in Calendar](/img/docs/advanced/location-settings/calendar.jpg)
 
-New appointment header body
+## New appointment header body
 
 If you wish to display a global message to your users and your carriers/customers, this will appear in every new appointment request. In this example we wrote “Please no bookings on Sunday, Thank you.” You may format that message with the toolbar provided. 
 

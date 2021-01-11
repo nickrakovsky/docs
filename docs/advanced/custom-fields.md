@@ -3,6 +3,14 @@ id: custom-fields
 title: Custom Fields
 ---
 
+#### Watch the Video - Custom Fields In DataDocks
+
+***
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Iq55UXf7RVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+Custom Fields In DataDocks (4:43)
+***
+
 Custom fields is a feature of your DataDocks platform. These are a set of unique fields that are applicable to your organization only. DataDocks is a customizable platform and it can accommodate as many custom fields as your organization requires. Typically, this is set up for you by the DataDocks Professional Services Team, however you can also add custom fields yourself.
 
 ![New Custom Field](/img/docs/advanced/custom-fields/new.jpg)

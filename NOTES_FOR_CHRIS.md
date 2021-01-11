@@ -11,4 +11,4 @@ Understand that the trees seen in the editor, are not how is shows on the naviga
 
 Coloured text means you have an error in syntax somewhere. 
 
-
+sidebar can go wonky - check master for errors, won't see them.
