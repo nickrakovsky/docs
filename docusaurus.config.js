@@ -37,10 +37,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: "/",
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/nickrakovsky/docs/edit/master/website/',
+          routeBasePath: "/"
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
