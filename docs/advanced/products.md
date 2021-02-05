@@ -6,7 +6,7 @@ title: Products
 #### Watch the Video - Understanding Products in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ajWE6PAt4qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vBWKUyOzFGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Understanding Products in DataDocks (1:19)
 ***
