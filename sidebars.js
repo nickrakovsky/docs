@@ -5,9 +5,16 @@ module.exports = {
       'appointments/working-with',
       'appointments/summary-view'
     ],
+    "Booking Portal": [
+      'booking-portal/booking-portal'
+    ],
+    "Check-In Portal": [
+      'checkin-portal/checkin-portal'
+    ],
     Advanced: [
       'advanced/purchase-orders',
       'advanced/companies',
+      'advanced/company-booking-permissions',
       'advanced/closures',
       'advanced/products',
       'advanced/users',
