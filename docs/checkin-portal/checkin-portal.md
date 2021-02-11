@@ -21,6 +21,6 @@ The driver then navigates to the Check-In Portal and inputs the appointment chec
 
 ![Input Token](/img/docs/checkin-portal/check-input-token.jpg)
 
-The DataDocks customer will now see the appointment in the Arrived State.
+The DataDocks customer will now see the appointment in the Arrived status.
 
 ![Arrived](/img/docs/checkin-portal/check-portal-arrived.jpg)
