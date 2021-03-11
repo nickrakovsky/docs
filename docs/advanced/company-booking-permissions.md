@@ -16,7 +16,7 @@ Company Booking Permissions in DataDocks (1:03)
 
 ## About Company Booking Permissions
 
-Company Booking Permissions is a feature that enables one carrier or customer to make bookings for another carrier or customer. Sub contractors, third party logistics companies and sometimes just various company vendors are all examples of these organizations that fit into this category. his feature is designed to give your organization flexibility when allowing or disallowing carriers and customers to book for each other or other companies.
+Company Booking Permissions is a feature that enables one carrier or customer to make bookings for another carrier or customer. Sub contractors, third party logistics companies and sometimes just various company vendors are all examples of these organizations that fit into this category. This feature is designed to give your organization flexibility when allowing or disallowing carriers and customers to book for each other or other companies.
 
 Navigate to Advanced-Company Booking Permissions
 
