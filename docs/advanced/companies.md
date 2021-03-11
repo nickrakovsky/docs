@@ -6,7 +6,10 @@ title: Companies
 #### Watch the Video - Adding Companies in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ygTjLnLw9VA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/ygTjLnLw9VA" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Adding Companies in DataDocks in DataDocks (3:06)
 ***

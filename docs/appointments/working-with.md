@@ -9,7 +9,10 @@ title: Creating, Editing, and Working with Appointments
 #### Watch the Video - Creating an Appointment in Datadocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5KXInmvn1HI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/5KXInmvn1HI" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Creating an Appointment in Datadocks (0:53)
 ***
@@ -24,7 +27,10 @@ Via the calendar itself – the green colored ‘New Appointment” bar can be d
 #### Watch the Video - The Appointment Dialog Screen in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/q2WckFVyJ3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/q2WckFVyJ3o" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 The Appointment Dialog Screen in DataDocks (2:07)
 ***
@@ -38,7 +44,10 @@ The appointment dialog screen is your main screen to edit all appointment types.
 #### Watch the Video - Understanding Appointment Status' in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fVgNhNgh25g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/fVgNhNgh25g" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Understanding Appointment Status' in DataDocks (1:11)
 ***
@@ -190,7 +199,10 @@ Click on the Back button to return to the calendar view.
 #### Watch the Video - Working with Appointments on the Calendar View
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OwH6VNsW2uY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/OwH6VNsW2uY" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Working with Appointments on the Calendar View (1:56)
 ***

@@ -6,7 +6,10 @@ title: Packing List Reports
 #### Watch the Video - Understanding Packing List Reports in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iIToL5ylNu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/iIToL5ylNu4" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Understanding Packing List Reports in DataDocks (1:20)
 ***

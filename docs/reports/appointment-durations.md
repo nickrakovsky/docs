@@ -6,7 +6,10 @@ title: Appointment Durations Report
 #### Watch the Video - Understanding Appointment Duration Reports in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/djKbry4ad3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/djKbry4ad3s" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Understanding Appointment Duration Reports in DataDocks (1:16)
 ***

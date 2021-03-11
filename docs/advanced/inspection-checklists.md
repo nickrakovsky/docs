@@ -6,7 +6,10 @@ title: Inspection Checklists
 #### Watch the Video - Inspection Checklists In DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/kJGkqpAfJEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/kJGkqpAfJEw" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Inspection Checklists In DataDocks (2:11)
 ***

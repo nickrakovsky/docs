@@ -6,7 +6,9 @@ title: Custom Fields
 #### Watch the Video - Custom Fields In DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Iq55UXf7RVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/Iq55UXf7RVE" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
 
 Custom Fields In DataDocks (4:43)
 ***

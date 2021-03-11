@@ -8,7 +8,9 @@ title: Understanding the Basics
 #### Watch the Video - Understanding your Organization and your Carriers and Customers
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OPoz2wQwYcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/OPoz2wQwYcA" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
 
 Understanding your Organization and your Carriers and Customers (1:35)
 ***
@@ -30,7 +32,9 @@ DataDocks was created to help improve the flow of communication around your sche
 #### Watch the Video - Understanding and Navigating the Calendar View
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f0UKzPj-8jg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/f0UKzPj-8jg" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
 
 Understanding and Navigating the Calendar View (1:36)
 ***
@@ -49,7 +53,9 @@ Companies and Users have a determined hierarchy, identical to a parent/child rel
 #### Watch the Video - Creating Companies and Users
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lalpd-Anba4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/lalpd-Anba4" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
 
 Creating Companies and Users (3:05)
 ***

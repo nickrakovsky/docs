@@ -6,7 +6,10 @@ title: Location Settings
 #### Watch the Video - Location Settings In DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0N2yrWSCoI0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/0N2yrWSCoI0" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Location Settings In DataDocks (1:26)
 ***

@@ -6,7 +6,10 @@ title: The Carrier and Customer Booking portal
 ### Gaining Access to the Booking Portal 
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yXCDWnQf8Lc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/yXCDWnQf8Lc" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Gaining Access to the Booking Portal (0:54)
 ***
@@ -24,7 +27,10 @@ You can gain access to the DataDocks customer booking portal in several ways.
 Watch the Video - Signing in to the Booking Portal
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nY4_1Ny9nBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/nY4_1Ny9nBA" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Signing in to the Booking Portal (1:19)
 ***
@@ -48,7 +54,10 @@ The Booking Portal is designed to be the interface for DataDocks Customers - car
 #### Watch the Video - Understanding the Booking Portal
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Mu7_nFiAm0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/0Mu7_nFiAm0" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Understanding the Booking Portal (1:02)
 ***
@@ -58,7 +67,10 @@ Understanding the Booking Portal (1:02)
 #### Watch the Video - Booking Portal Navigation Overview
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4l0XpMfFpdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/4l0XpMfFpdA" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Booking Portal Navigation Overview (1:09)
 ***
@@ -122,7 +134,10 @@ You can also update your password and email address.
 #### Watch the Video - Managing Appointments and Purchase Orders in the Booking Portal
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/eafUf9un1wM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/eafUf9un1wM" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 Managing Appointments and Purchase Orders in the Booking Portal (3:09)
 ***

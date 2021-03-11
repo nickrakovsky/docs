@@ -6,7 +6,10 @@ title: User Preferences
 #### Watch the Video - User Preferences in DataDocks
 
 ***
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fp7vPzHno9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<figure class="video-container">
+  <iframe src="//www.youtube.com/embed/Fp7vPzHno9I" frameborder="0" allowfullscreen width="100%"></iframe>
+</figure>
+
 
 User Preferences in DataDocks (3:13)
 ***
