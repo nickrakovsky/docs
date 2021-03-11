@@ -7,7 +7,7 @@ title: Users
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/WkrBwk6szhQ" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/WkrBwk6szhQ" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

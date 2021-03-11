@@ -7,7 +7,7 @@ title: User Preferences
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/Fp7vPzHno9I" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/Fp7vPzHno9I" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

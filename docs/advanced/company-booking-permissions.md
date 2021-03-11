@@ -7,7 +7,7 @@ title: Company Booking Permissions
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/kPl9fauU4sE" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/kPl9fauU4sE" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

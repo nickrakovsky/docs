@@ -6,7 +6,7 @@ title: Docks
 #### Watch the Video - Dock Locations in DataDocks
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/TLGpSxGIqmk" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/TLGpSxGIqmk" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

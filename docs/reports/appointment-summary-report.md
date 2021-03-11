@@ -7,7 +7,7 @@ title: Appointment Summary Report
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/y88-T5NhIQ4" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/y88-T5NhIQ4" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

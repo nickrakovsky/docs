@@ -7,7 +7,7 @@ title: The Check-In Portal
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/p9rlIm2akMQ" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/p9rlIm2akMQ" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

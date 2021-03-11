@@ -7,7 +7,7 @@ title: Appointment Durations Report
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/djKbry4ad3s" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/djKbry4ad3s" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

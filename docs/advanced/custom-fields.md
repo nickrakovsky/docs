@@ -7,7 +7,7 @@ title: Custom Fields
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/Iq55UXf7RVE" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/Iq55UXf7RVE" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Custom Fields In DataDocks (4:43)

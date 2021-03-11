@@ -10,7 +10,7 @@ title: Creating, Editing, and Working with Appointments
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/5KXInmvn1HI" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/5KXInmvn1HI" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -28,7 +28,7 @@ Via the calendar itself – the green colored ‘New Appointment” bar can be d
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/q2WckFVyJ3o" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/q2WckFVyJ3o" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -45,7 +45,7 @@ The appointment dialog screen is your main screen to edit all appointment types.
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/fVgNhNgh25g" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/fVgNhNgh25g" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -200,7 +200,7 @@ Click on the Back button to return to the calendar view.
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/OwH6VNsW2uY" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/OwH6VNsW2uY" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

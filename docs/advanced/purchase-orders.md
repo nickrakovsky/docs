@@ -7,7 +7,7 @@ title: Purchase Orders
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/D3PnKME17fY" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/D3PnKME17fY" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Working with Purchase Orders in DataDocks (3:28)

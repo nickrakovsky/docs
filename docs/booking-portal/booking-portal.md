@@ -7,7 +7,7 @@ title: The Carrier and Customer Booking portal
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/yXCDWnQf8Lc" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/yXCDWnQf8Lc" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -28,7 +28,7 @@ Watch the Video - Signing in to the Booking Portal
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/nY4_1Ny9nBA" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/nY4_1Ny9nBA" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -55,7 +55,7 @@ The Booking Portal is designed to be the interface for DataDocks Customers - car
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/0Mu7_nFiAm0" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/0Mu7_nFiAm0" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -68,7 +68,7 @@ Understanding the Booking Portal (1:02)
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/4l0XpMfFpdA" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/4l0XpMfFpdA" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 
@@ -135,7 +135,7 @@ You can also update your password and email address.
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/eafUf9un1wM" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/eafUf9un1wM" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

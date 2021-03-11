@@ -7,7 +7,7 @@ title: Closures
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/ajWE6PAt4qU" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/ajWE6PAt4qU" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

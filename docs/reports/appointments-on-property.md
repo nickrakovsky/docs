@@ -7,7 +7,7 @@ title: Appointments on Property Report
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/T9hHa3msqQs" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/T9hHa3msqQs" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 

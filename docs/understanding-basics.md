@@ -9,7 +9,7 @@ title: Understanding the Basics
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/OPoz2wQwYcA" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/OPoz2wQwYcA" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Understanding your Organization and your Carriers and Customers (1:35)
@@ -33,7 +33,7 @@ DataDocks was created to help improve the flow of communication around your sche
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/f0UKzPj-8jg" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/f0UKzPj-8jg" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Understanding and Navigating the Calendar View (1:36)
@@ -54,7 +54,7 @@ Companies and Users have a determined hierarchy, identical to a parent/child rel
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/lalpd-Anba4" frameborder="0" allowfullscreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/lalpd-Anba4" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Creating Companies and Users (3:05)
