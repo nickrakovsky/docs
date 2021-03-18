@@ -45,4 +45,4 @@ When you click on your welcome link, you will be asked to create a password, thi
 
 Once you have created your password, you will be prompted to sign-in using the email address you provided and the password you created. The sign-in screen is shown below.
 
-![Please Sign In](/img/docs/getting-started/please-sign-in.jpg)
+![Please Sign In](/img/docs/getting-started/please-sign-in.png)
