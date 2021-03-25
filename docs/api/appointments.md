@@ -14,10 +14,10 @@ You can fetch the list of appointments using the following API call:
 curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/appointments
 ```
 
-If your API token is `12345`, and your location subdomain is `toronto.acme` this would look like:
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
 
 ```
-curl -H "Authorization: Token 12345" https://toronto.acme.datadocks.com/api/v1/appointments
+curl -H "Authorization: Token 12345" https://toronto-acme.datadocks.com/api/v1/appointments
 ```
 
 You can pass the following parameters to filter the list of appointments returned:

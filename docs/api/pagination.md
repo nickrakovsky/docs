@@ -21,12 +21,12 @@ The following pagination headers are present in the response:
 
 #### For example:
 
-Assuming a location subdomain of toronto.acme and querying appointments, you will see reponse headers like this.
+Assuming a location subdomain of toronto-acme and querying appointments, you will see reponse headers like this.
 
 ```
 Current-Page: 1
 Page-Items: 20
 Total-Pages: 2
 Total-Count: 40
-Link: <https://toronto.acme.datadocks.com/api/v1/appointments?page=1>; rel="first", <https://toronto.acme.datadocks.com/api/v1/appointments?page=2>; rel="next", <https://toronto.acme.datadocks.com/api/v1/appointments?page=4>; rel="last"
+Link: <https://toronto-acme.datadocks.com/api/v1/appointments?page=1>; rel="first", <https://toronto-acme.datadocks.com/api/v1/appointments?page=2>; rel="next", <https://toronto-acme.datadocks.com/api/v1/appointments?page=4>; rel="last"
 ```
