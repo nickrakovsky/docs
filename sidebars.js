@@ -35,6 +35,6 @@ module.exports = {
       'reports/appointment-summary-report',
       'reports/packing-list-reports'
     ],
-    API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders', 'api/products'],
+    API: ['api/authentication', 'api/pagination', 'api/appointments', 'api/purchase_orders', 'api/products', 'api/companies'],
   },
 };
