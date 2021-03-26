@@ -209,3 +209,57 @@ curl -H "Authorization: Token 12345" https://toronto-acme.datadocks.com/api/v1/p
 * Type: Hash
 * Required: False
 * Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the item.
+
+
+
+## Creating Purchase orders
+
+You can create a purchase order using the following API call and providing the purchase order data in JSON format.
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"purchase_order": {"po_number": "A12345"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/purchase_orders
+```
+
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"purchase_order": {"po_number": "A12345"}}' \
+  https://toronto-acme.datadocks.com/api/v1/purchase_orders
+```
+
+## Updating Purchase Orders
+
+You can update a purchase order using the following API call and providing the purchase order data in JSON format. Note that the URL requires the purchase order ID at the end (the DataDocks purchase order ID).
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X PUT \
+  -d '{"purchase_order": {"po_number": "A123456"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/purchase_orders/[purchase_order_id]
+```
+
+If your API token is `12345`, your location subdomain is `toronto-acme`, and the purchase_order ID you want to update is `1` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X PUT \
+  -d '{"purchase_order": {"po_number": "A123456"}}' \
+  https://toronto-acme.datadocks.com/api/v1/purchase_orders/1
+```

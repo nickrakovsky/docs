@@ -463,3 +463,57 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 * Type: Array
 * Required: False
 * Description: The documents attached to the appointment.
+
+
+
+## Creating Appointments
+
+You can create an appointment using the following API call and providing the appointment data in JSON format.
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"appointment": {"carrier_name": "My Shipping Co.", "shipping_number": "AA11223344"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/appointments
+```
+
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"appointment": {"carrier_name": "My Shipping Co.", "shipping_number": "AA11223344"}}' \
+  https://toronto-acme.datadocks.com/api/v1/appointments
+```
+
+## Updating Appointments
+
+You can update an appointment using the following API call and providing the appointment data in JSON format. Note that the URL requires the appointment ID at the end (the DataDocks appointment ID).
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X PUT \
+  -d '{"appointment": {"shipping_number": "BB55667788"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/appointments/[company_id]
+```
+
+If your API token is `12345`, your location subdomain is `toronto-acme`, and the appointment ID you want to update is `1` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X PUT \
+  -d '{"appointment": {"shipping_number": "BB55667788"}}' \
+  https://toronto-acme.datadocks.com/api/v1/appointments/1
+```

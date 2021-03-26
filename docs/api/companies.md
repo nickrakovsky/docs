@@ -252,7 +252,6 @@ curl -v \
   -X POST \
   -d '{"company": {"name": "My Shipping Co.", "company_type": "carrier", "company_number": "MSC1234"}}' \
   https://toronto-acme.datadocks.com/api/v1/companies
-
 ```
 
 ## Updating Companies
@@ -264,7 +263,7 @@ curl -v \
   -H "Accept: application/json" \
   -H "Content-type: application/json" \
   -H "Authorization: Token [api_token]" \
-  -X POST \
+  -X PUT \
   -d '{"company": {"name": "Name Changed"}}' \
   https://[location_subdomain].datadocks.com/api/v1/companies/[company_id]
 ```
@@ -276,8 +275,7 @@ curl -v \
   -H "Accept: application/json" \
   -H "Content-type: application/json" \
   -H "Authorization: Token 12345" \
-  -X POST \
+  -X PUT \
   -d '{"company": {"name": "Name Changed"}}' \
   https://toronto-acme.datadocks.com/api/v1/companies/1
-
 ```

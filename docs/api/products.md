@@ -104,7 +104,6 @@ curl -v \
   -X POST \
   -d '{"product": {"name": "Third", "sku": "3C"}}' \
   https://toronto-acme.datadocks.com/api/v1/products
-
 ```
 
 ## Updating Products
@@ -116,7 +115,7 @@ curl -v \
   -H "Accept: application/json" \
   -H "Content-type: application/json" \
   -H "Authorization: Token [api_token]" \
-  -X POST \
+  -X PUT \
   -d '{"product": {"name": "Name Changed"}}' \
   https://[location_subdomain].datadocks.com/api/v1/products/[product_id]
 ```
@@ -128,8 +127,7 @@ curl -v \
   -H "Accept: application/json" \
   -H "Content-type: application/json" \
   -H "Authorization: Token 12345" \
-  -X POST \
+  -X PUT \
   -d '{"product": {"name": "Name Changed"}}' \
   https://toronto-acme.datadocks.com/api/v1/products/1
-
 ```
