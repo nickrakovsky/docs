@@ -266,7 +266,7 @@ curl -v \
   -H "Authorization: Token [api_token]" \
   -X POST \
   -d '{"company": {"name": "Name Changed"}}' \
-  https://[location_subdomain].datadocks.com/api/v1/companies/1
+  https://[location_subdomain].datadocks.com/api/v1/companies/[company_id]
 ```
 
 If your API token is `12345`, your location subdomain is `toronto-acme`, and the company ID you want to update is `1` this would look like:
