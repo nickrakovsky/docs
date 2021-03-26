@@ -106,3 +106,30 @@ curl -v \
   https://toronto-acme.datadocks.com/api/v1/products
 
 ```
+
+## Updating Products
+
+You can update a product using the following API call and providing the product data in JSON format. Note that the URL requires the products ID at the end (the DataDocks product ID).
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"product": {"name": "Name Changed"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/products/1
+```
+
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"product": {"name": "Name Changed"}}' \
+  https://toronto-acme.datadocks.com/api/v1/products/1
+
+```
