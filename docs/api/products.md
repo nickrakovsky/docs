@@ -78,3 +78,31 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 * Type: String
 * Required: True
 * Description: The SKU of the product.
+
+
+## Creating Products
+
+You can create a product using the following API call and providing the product data in JSON format.
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"product": {"name": "Third", "sku": "3C"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/products
+```
+
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"product": {"name": "Third", "sku": "3C"}}' \
+  https://toronto-acme.datadocks.com/api/v1/products
+
+```
