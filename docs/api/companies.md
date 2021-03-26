@@ -226,3 +226,58 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 * Type: Hash
 * Required: False
 * Description: A hash (object) of key / value pairs of the custom fields that have been filled out for the company.
+
+
+## Creating Companies
+
+You can create a company using the following API call and providing the company data in JSON format.
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"company": {"name": "My Shipping Co.", "company_type": "carrier", "company_number": "MSC1234"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/companies
+```
+
+If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"company": {"name": "My Shipping Co.", "company_type": "carrier", "company_number": "MSC1234"}}' \
+  https://toronto-acme.datadocks.com/api/v1/companies
+
+```
+
+## Updating Companies
+
+You can update a company using the following API call and providing the company data in JSON format. Note that the URL requires the company ID at the end (the DataDocks company ID).
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X POST \
+  -d '{"company": {"name": "Name Changed"}}' \
+  https://[location_subdomain].datadocks.com/api/v1/companies/1
+```
+
+If your API token is `12345`, your location subdomain is `toronto-acme`, and the company ID you want to update is `1` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X POST \
+  -d '{"company": {"name": "Name Changed"}}' \
+  https://toronto-acme.datadocks.com/api/v1/companies/1
+
+```

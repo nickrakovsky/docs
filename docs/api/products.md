@@ -109,7 +109,7 @@ curl -v \
 
 ## Updating Products
 
-You can update a product using the following API call and providing the product data in JSON format. Note that the URL requires the products ID at the end (the DataDocks product ID).
+You can update a product using the following API call and providing the product data in JSON format. Note that the URL requires the product ID at the end (the DataDocks product ID).
 
 ```
 curl -v \
@@ -121,7 +121,7 @@ curl -v \
   https://[location_subdomain].datadocks.com/api/v1/products/1
 ```
 
-If your API token is `12345`, and your location subdomain is `toronto-acme` this would look like:
+If your API token is `12345`, your location subdomain is `toronto-acme`, and the product ID you want to update is `1` this would look like:
 
 ```
 curl -v \
