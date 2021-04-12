@@ -82,7 +82,7 @@ NOTE: Unscheduled – Unscheduled is an appointment with no date or time associa
 
 ## Fields in the Appointment Dialog Screen
 
-![Appointment Fields](/img/docs/appointments/appt-fields.jpg)
+![Appointment Fields](/img/docs/appointments/Dialog-screen.png)
 
 APPOINTMENT DATE: Choose the month, day, year and hour for your appointment.
 
