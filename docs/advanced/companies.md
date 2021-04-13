@@ -16,26 +16,26 @@ Adding Companies in DataDocks in DataDocks (3:06)
 
 There will be occasions where your organization will change carriers/customers and you will need to edit the company information. This example will walk through how to remove and edit a company within your DataDocks platform.
 
-![Main Companies Screen](/img/docs/advanced/companies/main.jpg)
+[![Main Companies Screen](/img/docs/advanced/companies/main.jpg)](/img/docs/advanced/companies/main.jpg)
 
 To delete a company from your DataDocks platform, click on delete. NOTE: When you delete a company, all users of that company are also deleted from the DataDocks platform.  
 
 
-![Delete a Company](/img/docs/advanced/companies/delete.jpg)
+[![Delete a Company](/img/docs/advanced/companies/delete.jpg)](/img/docs/advanced/companies/delete.jpg)
 
 You will be prompted to complete this operation. 
 
-![Confirm Delete](/img/docs/advanced/companies/complete-delete.jpg)
+[![Confirm Delete](/img/docs/advanced/companies/complete-delete.jpg)](/img/docs/advanced/companies/complete-delete.jpg)
 
 ## Editing a Company
 
 You may want to change the settings for a company for several reasons. The primary contact information may have changed, you want to limit the docks they can book on, you may want them to be able to create recurring appointments. Click on edit to see the information about a company. 
 
-![Edit Company](/img/docs/advanced/companies/edit-company.jpg)
+[![Edit Company](/img/docs/advanced/companies/edit-company.jpg)](/img/docs/advanced/companies/edit-company.jpg)
 
 The edit company dialog screen appears. Here you can edit the company settings. 
 
-![Edit a Company](/img/docs/advanced/companies/edit-company-dialog.jpg)
+[![Edit a Company](/img/docs/advanced/companies/edit-company-dialog.jpg)](/img/docs/advanced/companies/edit-company-dialog.jpg)
 
 *NAME: (Required) The name of your carrier/customer.
 
@@ -56,6 +56,6 @@ CONTACT INFORMATION: Enter as much information as you can about the company.
 
 When you have completed your editing, click Update Company. 
 
-![Update Company](/img/docs/advanced/companies/update-co.jpg)
+[![Update Company](/img/docs/advanced/companies/update-co.jpg)](/img/docs/advanced/companies/update-co.jpg)
 
 

@@ -18,25 +18,25 @@ This report lets your organization track your appointment durations, to ensure t
 
 Check your appointment status bar to ensure you close off any open appointments. 
 
-![Status](/img/docs/reports/appointment-durations-report/status-appt-durations.jpg)
+[![Status](/img/docs/reports/appointment-durations-report/status-appt-durations.jpg)](/img/docs/reports/appointment-durations-report/status-appt-durations.jpg)
 
 Appointment durations report is a key metric for dock scheduling performance.
 
 Select a date range for your appointment durations, you can also choose a specific carrier/customer. 
 
-![Date Range Example](/img/docs/reports/appointment-durations-report/report-1.jpg)
+[![Date Range Example](/img/docs/reports/appointment-durations-report/report-1.jpg)](/img/docs/reports/appointment-durations-report/report-1.jpg)
 
 You can select either inbound or outbound.
 
-![Inbound or Outbound](/img/docs/reports/appointment-durations-report/inbound-outbound.jpg)
+[![Inbound or Outbound](/img/docs/reports/appointment-durations-report/inbound-outbound.jpg)](/img/docs/reports/appointment-durations-report/inbound-outbound.jpg)
 
 You may also select the appointment status. 
 
-![Select the Type of Report](/img/docs/reports/appointment-durations-report/type-select.jpg)
+[![Select the Type of Report](/img/docs/reports/appointment-durations-report/type-select.jpg)](/img/docs/reports/appointment-durations-report/type-select.jpg)
 
 Your appointment duration report contains the following default fields:
 
-![Status](/img/docs/reports/appointment-durations-report/status-bar1.jpg)
+[![Status](/img/docs/reports/appointment-durations-report/status-bar1.jpg)](/img/docs/reports/appointment-durations-report/status-bar1.jpg)
 
 APPT #: The auto-generated appointment number.
 
@@ -52,18 +52,18 @@ CONDITION: If the appointment was on time or late.
 
 WAITING: The waiting period is the duration between the arrival status and the started status. 
 
-![Status](/img/docs/reports/appointment-durations-report/status-bar2.jpg)
+[![Status](/img/docs/reports/appointment-durations-report/status-bar2.jpg)](/img/docs/reports/appointment-durations-report/status-bar2.jpg)
 
 PROCESSING: The processing period is the duration between the started status and the completed status. 
 
-![Status](/img/docs/reports/appointment-durations-report/status-bar3.jpg)
+[![Status](/img/docs/reports/appointment-durations-report/status-bar3.jpg)](/img/docs/reports/appointment-durations-report/status-bar3.jpg)
 
 TURN AROUND: The turn around period is the duration between the arrival status and the 
 left status.
 
 You may also download a .CSV of your appointment duration report. 
 
-![Download](/img/docs/reports/appointment-durations-report/download.jpg)
+[![Download](/img/docs/reports/appointment-durations-report/download.jpg)](/img/docs/reports/appointment-durations-report/download.jpg)
 
 
 
