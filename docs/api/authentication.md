@@ -9,12 +9,12 @@ This token will need to be placed in the `Authorization` header of all requests 
 
 ## Example
 
-Assuming an API token of `1234567890` and a location subdomain of `toronto.acme`.
+Assuming an API token of `1234567890` and a location subdomain of `toronto-acme`.
 
 A call to our API to retrieve appointments would look like this:
 
 ```
-curl -H "Authorization: Token 1234567890" https://toronto.acme.datadocks.com/api/v1/appointments
+curl -H "Authorization: Token 1234567890" https://toronto-acme.datadocks.com/api/v1/appointments
 ```
 
 Simply substitute your your token and your location subdomain.
