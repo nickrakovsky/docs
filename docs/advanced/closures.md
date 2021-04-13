@@ -16,11 +16,11 @@ Understanding Closures in DataDocks (3:06)
 
 Closures refers to a physical closure at one or more locations. In some cases, these are weekends or holidays, or they may occur due to an unforeseen incident where the location is closed. Closures can affect all docks, and all users. Your docks can also be set to a reduced capacity.  
 
-![New Closure](/img/docs/advanced/closures/new.jpg)
+[![New Closure](/img/docs/advanced/closures/new.jpg)](/img/docs/advanced/closures/new.jpg)
 
 The new closure dialog screen appears. 
 
-![New Closure Dialog](/img/docs/advanced/closures/new-closure-dialog.jpg)
+[![New Closure Dialog](/img/docs/advanced/closures/new-closure-dialog.jpg)](/img/docs/advanced/closures/new-closure-dialog.jpg)
   
 *NAME: (Required) The name you provide must be unique to this location. 
 
@@ -40,7 +40,7 @@ EXCLUDED COMPANIES: Select this option if you want to exclude specific companies
 
 RECURRING: Select this option if you want this closure to be recurring. Upon selection, the recurring dialog appears.
 
-![Recurring Closure](/img/docs/advanced/closures/recurring-dialog.jpg)
+[![Recurring Closure](/img/docs/advanced/closures/recurring-dialog.jpg)](/img/docs/advanced/closures/recurring-dialog.jpg)
 
 DURATION: The duration of the closure.
 
@@ -50,8 +50,8 @@ NOTE: A typical example of this is if you wish to block out the lunch period at 
 
 Example: In this example, we set up a recurring closure that will block out a half hour for lunch at 12:00 PM for all days of the week. 
 
-![Create Closure](/img/docs/advanced/closures/create-closure-lunch.jpg)
+[![Create Closure](/img/docs/advanced/closures/create-closure-lunch.jpg)](/img/docs/advanced/closures/create-closure-lunch.jpg)
 
 Upon create closure, the closure in this example has blocked out the period from 12:00 to 12:30 every day of the week (not weekends) for the lunch break. You can see the shaded area from 12:00 to 12:30 on the screen below. 
 
-![Closure Example](/img/docs/advanced/closures/example-arrow.jpg)
+[![Closure Example](/img/docs/advanced/closures/example-arrow.jpg)](/img/docs/advanced/closures/example-arrow.jpg)

@@ -18,11 +18,11 @@ Products are specific product items that you want to use for purchase order matc
 
 Click on the New Product button to begin adding products, one at a time.
 
-![New Product](/img/docs/advanced/products/new.jpg)
+[![New Product](/img/docs/advanced/products/new.jpg)](/img/docs/advanced/products/new.jpg)
 
 The new product dialog screen appears. Fill in the fields to log your product. 
 
-![New Product Screen](/img/docs/advanced/products/new-product-dialog.jpg)
+[![New Product Screen](/img/docs/advanced/products/new-product-dialog.jpg)](/img/docs/advanced/products/new-product-dialog.jpg)
 
 NAME: The name of the product. The name you provide must be unique across your entire organization.
 
@@ -30,13 +30,13 @@ SKU: The SKU associated to that product. The SKU you provide must be unique acro
 
 Click on the Create Product button to save the product. 
 
-![Create New](/img/docs/advanced/products/sample-create.jpg)
+[![Create New](/img/docs/advanced/products/sample-create.jpg)](/img/docs/advanced/products/sample-create.jpg)
 
 After you have populated your product fields, you may want to download the .CSV file to keep a record of when they were created and updated at. Click on the download button on the right hand side.
 
-![Download Products](/img/docs/advanced/products/download.jpg)
+[![Download Products](/img/docs/advanced/products/download.jpg)](/img/docs/advanced/products/download.jpg)
 
 This will prompt you to save the .CSV file for products. 
 
-![Download File](/img/docs/advanced/products/download-file.jpg)
+[![Download File](/img/docs/advanced/products/download-file.jpg)](/img/docs/advanced/products/download-file.jpg)
 

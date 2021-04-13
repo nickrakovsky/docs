@@ -18,12 +18,12 @@ This feature is designed to allow drivers to check in their appointments to a fa
 
 The driver navigates to the appointment screen, and makes a note of the check-in appointment token.
 
-![Checkin Token](/img/docs/checkin-portal/check-portal-appt-orig.jpg)
+[![Checkin Token](/img/docs/checkin-portal/check-portal-appt-orig.jpg)](/img/docs/checkin-portal/check-portal-appt-orig.jpg)
 
 The driver then navigates to the Check-In Portal and inputs the appointment check-in token.
 
-![Input Token](/img/docs/checkin-portal/check-input-token.jpg)
+[![Input Token](/img/docs/checkin-portal/check-input-token.jpg)](/img/docs/checkin-portal/check-input-token.jpg)
 
 The DataDocks customer will now see the appointment in the Arrived status.
 
-![Arrived](/img/docs/checkin-portal/check-portal-arrived.jpg)
+[![Arrived](/img/docs/checkin-portal/check-portal-arrived.jpg)](/img/docs/checkin-portal/check-portal-arrived.jpg)

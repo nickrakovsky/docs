@@ -17,11 +17,11 @@ Video - Dock Locations in DataDocks (1:27)
 
 Docks are physical docks at your locations. If you have dedicated docks for inbound or outbound, you can specify them in the new dock dialog screen. 
 
-![New Dock](/img/docs/advanced/docks/new.jpg)
+[![New Dock](/img/docs/advanced/docks/new.jpg)](/img/docs/advanced/docks/new.jpg)
 
 Once you click on the Create Dock button the new dock dialog screen appears. 
 
-![New Dock Screen](/img/docs/advanced/docks/dialog.jpg)
+[![New Dock Screen](/img/docs/advanced/docks/dialog.jpg)](/img/docs/advanced/docks/dialog.jpg)
 
 NAME: The dock name must be unique within this location. If left blank, it will be assigned a number based on its position. Example, dock 1. 
 

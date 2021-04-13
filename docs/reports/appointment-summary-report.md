@@ -18,15 +18,15 @@ The appointment summary report is a dashboard style report that includes key met
 
 Check your appointment status bar to ensure you close off any open appointments that have completed. 
 
-![Status](/img/docs/reports/appointment-summary-report/status-appt-summary.jpg)  
+[![Status](/img/docs/reports/appointment-summary-report/status-appt-summary.jpg)](/img/docs/reports/appointment-summary-report/status-appt-summary.jpg)  
 
 Select a date range for your appointment report, you can also choose a specific carrier/customer. Click the search button to begin your search.  
 
-![Main with Arrows](/img/docs/reports/appointment-summary-report/main.jpg) 
+[![Main with Arrows](/img/docs/reports/appointment-summary-report/main.jpg)](/img/docs/reports/appointment-summary-report/main.jpg) 
 
 Your appointment summary report contains the following default fields:
 
-![Main Screen](/img/docs/reports/appointment-summary-report/main-screen.jpg) 
+[![Main Screen](/img/docs/reports/appointment-summary-report/main-screen.jpg)](/img/docs/reports/appointment-summary-report/main-screen.jpg) 
 
 ALL APPTS: Totals for both inbound and outbound.
 
