@@ -19,11 +19,11 @@ Users are your internal organizational users in your instance of DataDocks. Thes
 
 Click on Invite User.
 
-![Invite a User](/img/docs/advanced/users/new-user.jpg)
+[![Invite a User](/img/docs/advanced/users/new-user.jpg)](/img/docs/advanced/users/new-user.jpg)
 
 The invite user dialog screen appears.
  
-![Invite a User Screen](/img/docs/advanced/users/invite-user-dialog.jpg)
+[![Invite a User Screen](/img/docs/advanced/users/invite-user-dialog.jpg)](/img/docs/advanced/users/invite-user-dialog.jpg)
  
 Enter the email address of that user and select a role. Role based access is a key feature of DataDocks.
 
@@ -43,17 +43,17 @@ Your organization may change who has access to DataDocks or the roles that they 
 
 EDIT: Allows you to edit the type of role they are assigned to.
 
-![Edit a User](/img/docs/advanced/users/edit-user.jpg)
+[![Edit a User](/img/docs/advanced/users/edit-user.jpg)](/img/docs/advanced/users/edit-user.jpg)
 
 ROLE: DataDocks is permission based. Roles within user groups allow specific users to see types of information and controls what that information is. By default, all of your carrier/customer users are assigned to shipping and receiving roles. 
 
-![User Roles](/img/docs/advanced/users/role-sample.jpg)
+[![User Roles](/img/docs/advanced/users/role-sample.jpg)](/img/docs/advanced/users/role-sample.jpg)
 
 ## About Password Reset
 
-![Password Reset](/img/docs/advanced/users/pw-reset.jpg)
+[![Password Reset](/img/docs/advanced/users/pw-reset.jpg)](/img/docs/advanced/users/pw-reset.jpg)
 
 PASSWORD RESET: Sends a password reset to the email address on file. Once clicked, the screen presented requires you approve the reset. 
 
-![Confirm Password Reset](/img/docs/advanced/users/pw-reset-confirm.jpg)
+[![Confirm Password Reset](/img/docs/advanced/users/pw-reset-confirm.jpg)](/img/docs/advanced/users/pw-reset-confirm.jpg)
 

@@ -18,20 +18,20 @@ This report shows you how many active appointments have physically arrived at yo
 
 The appointments on property report gives you a status of all the vehicles on your property at the time of viewing.
   
-![Main Screen](/img/docs/reports/appointments-on-property-report/appts-on-prop.jpg)
+[![Main Screen](/img/docs/reports/appointments-on-property-report/appts-on-prop.jpg)](/img/docs/reports/appointments-on-property-report/appts-on-prop.jpg)
 
 Appointments need to be in the arrived status and have a dock assigned in order to show up in this report.  Below is an example of two appointments in the arrived status in the calendar view. 
 
-![Arrived Appointments](/img/docs/reports/appointments-on-property-report/main-cal-arrived.jpg)
+[![Arrived Appointments](/img/docs/reports/appointments-on-property-report/main-cal-arrived.jpg)](/img/docs/reports/appointments-on-property-report/main-cal-arrived.jpg)
 
-![On Property](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-dl.jpg)
+[![On Property](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-dl.jpg)](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-dl.jpg)
 
 You can choose to download this report for historical reference. You will be prompted to save the on_property .CSV file. 
 
-![Main Screen](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-download-csv.jpg)
+[![Main Screen](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-download-csv.jpg)](/img/docs/reports/appointments-on-property-report/main-on-prop-arrived-download-csv.jpg)
  
 The on_property .CSV file contains all of the appointment information included in the report, including arrival time and other important information. 
 
-![Download Screen](/img/docs/reports/appointments-on-property-report/excel.jpg)
+[![Download Screen](/img/docs/reports/appointments-on-property-report/excel.jpg)](/img/docs/reports/appointments-on-property-report/excel.jpg)
 
 

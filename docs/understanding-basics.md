@@ -17,7 +17,7 @@ Understanding your Organization and your Carriers and Customers (1:35)
 
 DataDocks was created to help improve the flow of communication around your scheduled appointments, this could be at your organization, with your carrier and customer partners, and with your suppliers and vendors. The other important principal to understand is that you can invite your carriers and customers to book appointments at your docks. You have complete control of the appointments that are booked. DataDocks eliminates repetitive back and forth via phone or email which helps you and your organization save time, eliminate or decrease demurrage and detention costs and have a reporting system so you can monitor the ability of your partners to deliver on time. Visual below, explains the delineation between your organization and your partners. 
 
-![Road Graphic](/img/docs/getting-started/road-graphic.png)
+[![Road Graphic](/img/docs/getting-started/road-graphic.png)](/img/docs/getting-started/road-graphic.png)
 
 | Your Organization                                                                                                   | Your Carriers/Customers/Partners                                                                      |
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Understanding and Navigating the Calendar View (1:36)
 
 The Calendar view is your default view or “home screen” for the DataDocks platform. This is the workspace that you will spend time monitoring, editing and working with. Let’s get to know the workspace and its components.
 
-![Main Navigation](/img/docs/getting-started/main-navigation.jpg)
+[![Main Navigation](/img/docs/getting-started/main-navigation.jpg)](/img/docs/getting-started/main-navigation.jpg)
 
 ## Companies and User Hierarchy
 
@@ -64,15 +64,15 @@ Setting up companies (carriers, customers) is the first step in the invitation p
 
 Under the advanced tab, navigate to the companies setting. 
 
-![New Company](/img/docs/getting-started/new-company1.jpg)
+[![New Company](/img/docs/getting-started/new-company1.jpg)](/img/docs/getting-started/new-company1.jpg)
 
 Once you reach the companies screen, click the New Company button. 
 
-![New Company](/img/docs/getting-started/new-company2.jpg)
+[![New Company](/img/docs/getting-started/new-company2.jpg)](/img/docs/getting-started/new-company2.jpg)
 
 The add company dialog screen appears. For this example, we’re going to add Acme Shipping as a company.
 
-![New Company Acme](/img/docs/getting-started/newcompany3-acme.jpg)
+[![New Company Acme](/img/docs/getting-started/newcompany3-acme.jpg)](/img/docs/getting-started/newcompany3-acme.jpg)
 
 Fill out all of the appropriate fields you want to enter about your carrier or customer. 
 
@@ -97,29 +97,29 @@ CONTACT INFORMATION: Enter as much information as you can about the company.
 
 After you have entered that information click on Create Company.
 
-![Create Company](/img/docs/getting-started/create-comp-button.jpg)
+[![Create Company](/img/docs/getting-started/create-comp-button.jpg)](/img/docs/getting-started/create-comp-button.jpg)
 
 After you have created the company, the company list screen appears. For this example, we created the company called “Acme Shipping”.
 
-![Create Company](/img/docs/getting-started/newcompany-create.jpg)
+[![Create Company](/img/docs/getting-started/newcompany-create.jpg)](/img/docs/getting-started/newcompany-create.jpg)
 
 ### Adding Users and Giving Companies Access to DataDocks
 
 Now that the company has been created you can now add users to that company. These are the users that will be invited to your DataDocks platform to create appointments on your docks. Click on users to get started. 
 
-![New Company Users](/img/docs/getting-started/new-company-users.jpg)
+[![New Company Users](/img/docs/getting-started/new-company-users.jpg)](/img/docs/getting-started/new-company-users.jpg)
 
 After you click on users, this dialog appears. Click on Invite User to begin.
 
-![New User](/img/docs/getting-started/new-company-users2.jpg)
+[![New User](/img/docs/getting-started/new-company-users2.jpg)](/img/docs/getting-started/new-company-users2.jpg)
 
 After you click the Invite User Button, this screen appears. Enter the email address of the user (carrier/customer) you want to add to your DataDocks platform. 
 
-![Invite User](/img/docs/getting-started/invite-user-email.jpg)
+[![Invite User](/img/docs/getting-started/invite-user-email.jpg)](/img/docs/getting-started/invite-user-email.jpg)
 
 After you enter that email address, an automated email goes out to that user. This confirmation screen appears. The invitation to that user has been sent.  You may continue to add users to that company. 
 
-![Send Invite](/img/docs/getting-started/invite-user-sent.jpg)
+[![Send Invite](/img/docs/getting-started/invite-user-sent.jpg)](/img/docs/getting-started/invite-user-sent.jpg)
 
 NOTE: The email that is sent to the user comes from the address noreply@datadocks.app, many organizations use an email spam filter, it is important to follow up with your user to make sure this invitation did not go into their spam folder. DataDocks has an excellent domain rating which means that email invites to users should not go into their spam email folder; however, it is recommended to make sure they received the invitation. Once they accept and create their own account, you will be notified that they have been added.  If they have not accepted the invitation, after 10 minutes you can resend the invitation. If they do not receive an email after the second time please contact DataDocks.
 

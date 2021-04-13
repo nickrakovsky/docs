@@ -15,11 +15,11 @@ Working with Purchase Orders in DataDocks (3:28)
 
 Purchase orders are uniquely identified by their numbers. These are attached to appointments and reported on in the reporting modules. Purchase orders and tracking purchase order fulfillment is a key feature of the DataDocks platform. To begin adding a new purchase order, click on the New Purchase Order button. Please note that if your team uses another identifying name for loads such as order number, we can rename this field to suit your preference.
 
-![Main View](/img/docs/advanced/purchase-orders/main.jpg)
+[![Main View](/img/docs/advanced/purchase-orders/main.jpg)](/img/docs/advanced/purchase-orders/main.jpg)
 
 The New Purchase Order dialog screen appears. 
 
-![New Purchase Order](/img/docs/advanced/purchase-orders/new-po-dialog.jpg)
+[![New Purchase Order](/img/docs/advanced/purchase-orders/new-po-dialog.jpg)](/img/docs/advanced/purchase-orders/new-po-dialog.jpg)
 
 Fill in as much as you can about your purchase order. 
 
@@ -39,11 +39,11 @@ EXPECTED END: Enter the day and time that the transaction is expected to end.
 
 Items can be attached to purchase orders to create a complete list of items to be included in that specific purchase order. To begin, click on the Add an Item button. 
 
-![Add an Item](/img/docs/advanced/purchase-orders/add-item.jpg)
+[![Add an Item](/img/docs/advanced/purchase-orders/add-item.jpg)](/img/docs/advanced/purchase-orders/add-item.jpg)
 
 The add item dialog appears. Here you can enter the Items you wish to be included in the purchase order. 
 
-![Add Item Dialog Screen](/img/docs/advanced/purchase-orders/add-new-item-dialog.jpg)
+[![Add Item Dialog Screen](/img/docs/advanced/purchase-orders/add-new-item-dialog.jpg)](/img/docs/advanced/purchase-orders/add-new-item-dialog.jpg)
 
 CUSTOMER: The customer that the Item refers to.
 
@@ -59,27 +59,27 @@ WEIGHT: The weight of the Item.
 
 You can add additional Items to your purchase order by clicking the add an item button. You can remove items by clicking the X at the right side of the add an item dialog.  
 
-![Remove Item](/img/docs/advanced/purchase-orders/remove-item.jpg)
+[![Remove Item](/img/docs/advanced/purchase-orders/remove-item.jpg)](/img/docs/advanced/purchase-orders/remove-item.jpg)
 
 About Purchase Orders and Appointments
 
 Purchase orders, when created, appear on your calendar in your action panel. This is to serve as a visual reminder that this purchase order needs to be associated with an appointment. You can drag your purchase order on to the calendar to create a booked appointment. (This is a shortcut step when you are not sure about when that PO will be assigned).
 
-![Calendar View](/img/docs/advanced/purchase-orders/cal-view.jpg)
+[![Calendar View](/img/docs/advanced/purchase-orders/cal-view.jpg)](/img/docs/advanced/purchase-orders/cal-view.jpg)
 
 You can drag the purchase order on to the calendar.
 
-![Drag and Drop PO](/img/docs/advanced/purchase-orders/drag-po.jpg)
+[![Drag and Drop PO](/img/docs/advanced/purchase-orders/drag-po.jpg)](/img/docs/advanced/purchase-orders/drag-po.jpg)
 
 After dragging the purchase order on to the calendar, it goes into a booked state. You can view that appointment by selecting the open appointment icon. (…). 
 
-![Edit Booked Appointment](/img/docs/advanced/purchase-orders/edit-booked-appt-small-box.jpg)
+[![Edit Booked Appointment](/img/docs/advanced/purchase-orders/edit-booked-appt-small-box.jpg)](/img/docs/advanced/purchase-orders/edit-booked-appt-small-box.jpg)
 
-![Edit Appointment](/img/docs/advanced/purchase-orders/edit-appt.jpg)
+[![Edit Appointment](/img/docs/advanced/purchase-orders/edit-appt.jpg)](/img/docs/advanced/purchase-orders/edit-appt.jpg)
 
 After that purchase order has been dragged on to the calendar and is in a booked status. If you refer back to that purchase order, it will have an appointment and appointment number associated with it. 
 
-![Purchase Orders Number](/img/docs/advanced/purchase-orders/appt-assoc-number.jpg)
+[![Purchase Orders Number](/img/docs/advanced/purchase-orders/appt-assoc-number.jpg)](/img/docs/advanced/purchase-orders/appt-assoc-number.jpg)
 
 
 
