@@ -20,7 +20,7 @@ Creating and managing appointments is the core offering of the DataDocks platfor
 
 Via the calendar itself – the green colored ‘New Appointment” bar can be dragged onto a specific date, time, queue or drop location on the calendar. In this example, we’ll drag the new appointment bar to 11:00 A.M..
 
-![Drag and Drop](/img/docs/appointments/appt-drag-drop.jpg)
+[![Drag and Drop](/img/docs/appointments/appt-drag-drop.jpg)](/img/docs/appointments/appt-drag-drop.jpg)
 
 ## The Appointment Dialog Screen
 
