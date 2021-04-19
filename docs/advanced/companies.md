@@ -35,7 +35,7 @@ You may want to change the settings for a company for several reasons. The prima
 
 The edit company dialog screen appears. Here you can edit the company settings. 
 
-[![Edit a Company](/img/docs/advanced/companies/edit-company-dialog.jpg)](/img/docs/advanced/companies/edit-company-dialog.jpg)
+[![Edit a Company](/img/docs/advanced/companies/edit-company-dialog.png)](/img/docs/advanced/companies/edit-company-dialog.png)
 
 *NAME: (Required) The name of your carrier/customer.
 
@@ -46,6 +46,8 @@ The edit company dialog screen appears. Here you can edit the company settings.
 AUTOMATICALLY APPROVE APPOINTMENT CHECK BOX: Checking this box will automatically approve all appointments for this company, this is only to be used if this organization is a key carrier/customer, or has traditionally been very reliable, or you have a standing recurring meeting with this carrier/customer.
 
 SEND NOTIFICATIONS: checking this box will send automated email notifications to this company, it is recommended to check this box to ensure any logged appointment changes notifies the company. 
+
+CAN CREATE CARRIERS: checking this box will allow this company to create their own carriers and give the carrier access to DataDocks from the booking portal.
 
 SELECT THE LOCATIONS (if any) WHERE THIS COMPANY CAN BOOK APPOINTMENTS:
 If you have multiple locations set up in DataDocks, choose which location this company can book appointments for, by default, if you have one location, you should allow the company to book at that location.
