@@ -23,6 +23,7 @@ module.exports = {
       'advanced/inspection-checklists',
       'advanced/custom-fields',
       'advanced/units',
+      'advanced/company-duplicates',
       'advanced/bulk-uploads',
       'advanced/location-settings',
       'advanced/user-preferences'
