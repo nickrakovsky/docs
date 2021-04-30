@@ -26,8 +26,25 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
+Github Actions will detect any changes to master and automatically deploy them.
+
+If you need to deploy manually or to a different branch for some reason, you can deploy manually with:
+
 ```
 $ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+#### Troubleshooting
+
+If during deploy, you get a message about an image file not being found, check to make sure the reference is the proper casing. OSX and Windows ignore case, but Linux (which is what is used to build and deploy) does not.
+
+For example, if you have an image `Example.png`:
+
+Correct:
+
+- `![Example](Example.png)`
+
+Incorrect:
+
+- `![Example](example.png)`
+- `![Example](example.PNG)`
