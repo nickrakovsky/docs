@@ -263,3 +263,27 @@ curl -v \
   -d '{"purchase_order": {"po_number": "A123456"}}' \
   https://toronto-acme.datadocks.com/api/v1/purchase_orders/1
 ```
+
+## Deleting Purchase Orders
+
+You can delete a purchase order using the following API call. Note that the URL requires the purchase order ID at the end (the DataDocks purchase order ID).
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token [api_token]" \
+  -X DELETE \
+  https://[location_subdomain].datadocks.com/api/v1/purchase_orders/[purchase_order_id]
+```
+
+If your API token is `12345`, your location subdomain is `toronto-acme`, and the purchase_order ID you want to update is `1` this would look like:
+
+```
+curl -v \
+  -H "Accept: application/json" \
+  -H "Content-type: application/json" \
+  -H "Authorization: Token 12345" \
+  -X DELETE \
+  https://toronto-acme.datadocks.com/api/v1/purchase_orders/1
+```
