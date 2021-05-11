@@ -20,6 +20,7 @@ module.exports = {
       'advanced/users',
       'advanced/docks',
       'advanced/yards',
+      'advanced/Trailers',
       'advanced/inspection-checklists',
       'advanced/custom-fields',
       'advanced/units',
