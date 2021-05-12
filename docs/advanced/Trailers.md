@@ -46,3 +46,4 @@ FULL: Once your appointment has been marked completed, the status will udpdate t
 From the Trailer screen, if you hit the edit button you are able to see a "log" of what has happened with that trailer. It will show you the dock, the status and at what time and date. It will also show you which appointment it was attached to, you can click on the appointment number to see further details about the appointment.
 
 [![Trailer Log](/img/docs/advanced/trailers/trailer-log.PNG)](/img/docs/advanced/trailers/trailer-log.PNG)
+
