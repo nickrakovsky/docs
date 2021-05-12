@@ -17,15 +17,15 @@ Within the DataDocks platform, you can track the whereabouts and status of your 
 
 Start by adding your trailers to the system by clicking on "New Trailer"
 
-[![New Trailer](/img/docs/advanced/trailers/new-trailer-button.png)](/img/docs/advanced/trailers/new-trailer-button.png)
+[![New Trailer](/img/docs/advanced/trailers/new-trailer-button.PNG)](/img/docs/advanced/trailers/new-trailer-button.PNG)
 
 The New Trailer Dialogue screen appears, begin to add the information regarding your trailer. You can select a Trailer Dock/Yard and Status here if applicable, otherwise you can leave as is and it will be updated once attached to appointments.
 
-[![New Trailer Screen](/img/docs/advanced/trailers/new-trailer-dialog.png)](/img/docs/advanced/trailers/new-trailer-dialog.png)
+[![New Trailer Screen](/img/docs/advanced/trailers/new-trailer-dialog.PNG)](/img/docs/advanced/trailers/new-trailer-dialog.PNG)
 
 Once you have added your trailer, you can now begin to assign this trailer to your appointments. In your appointment dialogue screen, you can either type or use the drop down to select your trailer number. This will assign it to the appointment and automatically update the current Dock/Yard and status.
 
-[![Trailer Screen](/img/docs/advanced/trailers/trailer-screen.png)](/img/docs/advanced/trailers/trailer-screen.png)
+[![Trailer Screen](/img/docs/advanced/trailers/trailer-screen.PNG)](/img/docs/advanced/trailers/trailer-screen.PNG)
 
 STATUS FIELDS FOR INBOUND APPOINTMENTS:
 
@@ -45,4 +45,4 @@ FULL: Once your appointment has been marked completed, the status will udpdate t
 
 From the Trailer screen, if you hit the edit button you are able to see a "log" of what has happened with that trailer. It will show you the dock, the status and at what time and date. It will also show you which appointment it was attached to, you can click on the appointment number to see further details about the appointment.
 
-[![Trailer Log](/img/docs/advanced/trailers/trailer-log.png)](/img/docs/advanced/trailers/trailer-log.png)
+[![Trailer Log](/img/docs/advanced/trailers/trailer-log.PNG)](/img/docs/advanced/trailers/trailer-log.PNG)
