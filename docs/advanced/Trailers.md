@@ -25,7 +25,7 @@ The New Trailer Dialogue screen appears, begin to add the information regarding 
 
 Once you have added your trailer, you can now begin to assign this trailer to your appointments. In your appointment dialogue screen, you can either type or use the drop down to select your trailer number. This will assign it to the appointment and automatically update the current Dock/Yard and status.
 
-[![Trailer Screen](/img/docs/advanced/trailers/trailer-screen.PNG)](/img/docs/advanced/trailers/trailer-screen.PNG)
+[![Trailer Screen](/img/docs/advanced/trailers/trailer-screen.png)](/img/docs/advanced/trailers/trailer-screen.png)
 
 STATUS FIELDS FOR INBOUND APPOINTMENTS:
 
