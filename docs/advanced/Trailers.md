@@ -7,7 +7,7 @@ title: Trailers
 
 ***
 <figure class="video-container">
-  <iframe src="//www.youtube.com/embed/wDuasOknmhk" frameborder="0" allowFullScreen width="100%"></iframe>
+  <iframe src="//www.youtube.com/embed/pBz39WkCJhs" frameborder="0" allowFullScreen width="100%"></iframe>
 </figure>
 
 Trailers - How to add and update (3:37)
