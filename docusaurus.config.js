@@ -30,6 +30,9 @@ module.exports = {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} DataDocks, Inc.`,
     },
+    gtag: {
+      trackingID: process.env.GTAG_TRACKING_ID
+    }
   },
   presets: [
     [
