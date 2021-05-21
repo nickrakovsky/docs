@@ -189,7 +189,7 @@ curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadock
 
 * Type: String
 * Required: False
-* Description: Country
+* Description: Country - please use two letter country code. I.e. US for United States
 
 ### postal
 
