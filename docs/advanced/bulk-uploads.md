@@ -16,11 +16,12 @@ Bulk Uploads In Datadocks (6:14)
 
 ## About Bulk Uploads
 
-Bulk uploads is a method to bring pre-formatted DataDocks templates into your DataDocks platform. These upload templates have three types:
+Bulk uploads is a method to bring pre-formatted DataDocks templates into your DataDocks platform. These upload templates have four types:
 
 1.	Appointments
 2.	Purchase Orders
 3.	Companies
+4.  Products
 
 
 ## About .CSV Templates
@@ -67,16 +68,16 @@ Once you have worked with your file and are ready to upload it, select the brows
 
 The purchase orders .CSV template contains all of the fields that are included in your purchase order dialog screen. This is an easy way for you to get large numbers of purchase orders into your DataDocks platform at one time. Once you fill out the fields in the template, all of these purchase orders will appear in your purchase order view. The purchase order.CSV Template contains the following purchase order Fields:  
 
-PO Number Location
-Type - Inbound or Outbound
-Carrier Name or Number
-Expected Start (YYYY-MM-DD HH:MM:SS)
-Expected End (YYYY-MM-DD HH:MM:SS)
-Packing List Customer Name or Number
-Packing List Product Name or SKU
-Packing List Unit
-Packing List Quantity
-Packing List Weight 
+- PO Number Location
+- Type - Inbound or Outbound
+- Carrier Name or Number
+- Expected Start (YYYY-MM-DD HH:MM:SS)
+- Expected End (YYYY-MM-DD HH:MM:SS)
+- Packing List Customer Name or Number
+- Packing List Product Name or SKU
+- Packing List Unit
+- Packing List Quantity
+- Packing List Weight 
 
 NOTE: Templates contain sample fields for ease of formatting. 
 
@@ -92,19 +93,19 @@ Once you have worked with your file and are ready to upload it, select the brows
 
 The companies .CSV template contains all of the fields that are included in your companies dialog screen. This is an easy way for you to get large numbers of companies into your DataDocks platform at one time. Once you fill out the fields in the template, all of these companies will appear in your companies view. The companies .CSV template contains the following companies fields:
 
-Name
-Company Number
-Type - Customer or Carrier
-Auto Approve Appointments - Yes or No
-Notifications - Yes or No
-Email
-Phone
-Street Address
-Unit
-City
-Province / State
-Country
-Postal / Zip Code
+- Name
+- Company Number
+- Type - Customer or Carrier
+- Auto Approve Appointments - Yes or No
+- Notifications - Yes or No
+- Email
+- Phone
+- Street Address
+- Unit
+- City
+- Province / State
+- Country
+- Postal / Zip Code
 
 NOTE: Templates contain sample fields for ease of formatting. 
 
@@ -115,6 +116,22 @@ NOTE: Templates contain sample fields for ease of formatting.
 Once you have worked with your file and are ready to upload it, select the browse button. NOTE: You should ensure that the file type you intend to upload matches the type in the upload dialog box (ie. For an appointments upload, ensure appointments is selected. For a purchase orders upload ensure purchase orders is selected and for companies upload, ensure companies is selected). 
  
 [![Upload Companies](/img/docs/advanced/bulk-uploads/upload-companies.jpg)](/img/docs/advanced/bulk-uploads/upload-companies.jpg)
+
+### The Products .CSV Template
+
+The products .CSV template contains all of the fields that are included in your product dialog screen. This is an easy way for you to get large numbers of products into your DataDocks platform at one time. Once you fill out the fields in the template, all of these products will appear in your products view. The products .CSV template contains the following products fields:
+
+- Name
+- Sku
+
+[![Upload Products](/img/docs/advanced/bulk-uploads/products-template.png)](/img/docs/advanced/bulk-uploads/products-template.png)
+
+### Uploading the Products .CSV Template
+
+Once you have worked with your file and are ready to upload it, select the browse button. NOTE: You should ensure that the file type you intend to upload matches the type in the upload dialog box (ie. For a product upload, ensure products is selected).
+
+[![Upload Products](/img/docs/advanced/bulk-uploads/upload-products.png)](/img/docs/advanced/bulk-uploads/upload-products.png)
+
 
 ### Managing Upload Errors
 
