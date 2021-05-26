@@ -164,7 +164,7 @@ There are two view options for Appointments, one for those that occur in the fut
 
 **Upcoming Appointments**
 
-Upcoming scheduled appointments have view options that include view, re-schedule, edit and cancel. 
+Upcoming scheduled appointments have view options that include view, re-schedule, edit and cancel. You also have the ability to notify the customer you are running late for appointments within 24 hours.
 
 [![View Upcoming](/img/docs/appointments/book-portal-appt-upcoming-view.jpg)](/img/docs/appointments/book-portal-appt-upcoming-view.jpg)
 
@@ -183,6 +183,10 @@ Edit - Allows you to edit the upcoming appointment and brings up the edit appoin
 Cancel - Prompts you to cancel the appointment.
 
 [![Cancel](/img/docs/appointments/book-portal-upcoming-cancel.jpg)](/img/docs/appointments/book-portal-upcoming-cancel.jpg)
+
+Running late - This button will appear in the top right when the appointment is within 24 hours. It allows you to notify the customer you are running behind the scheduled time. Once you hit the button, it will prompt you to select a time amount you are running behind by, sending a notificaiton to your customer.
+
+[![Cancel](/img/docs/appointments/running-late.png)](/img/docs/appointments/running-late.png)
 
 **Completed Appointments**
 
