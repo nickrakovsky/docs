@@ -27,7 +27,7 @@ You can pass the following parameters to filter the list of companies returned:
 
 * Type: String
 * Description: The type of companies to filter on. This is an exact match if provided.
-* Possible Values: Can be "carrier" or "customer"
+* Possible Values: Can be "carrier", "customer" or "both". This is required.
 
 ```
 curl -H "Authorization: Token [api_token]" https://[location_subdomain].datadocks.com/api/v1/companies?company_type=customer

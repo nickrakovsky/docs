@@ -29,7 +29,7 @@ REQUIRED: If you check this, then users will be forced to provide a value on boo
 
 EXTERNAL:  Check this box if you wish your carriers/customers to see this field on their appointment booking screens. Your team will also see it when booking appointments.
 
-*WHERE WOULD YOU LIKE THIS FIELD TO APPEAR?: (Required) Choose the screen which you would like your custom field to be added. You have a choice of company, appointment or packing list. 
+*WHERE WOULD YOU LIKE THIS FIELD TO APPEAR?: (Required) Choose the screen which you would like your custom field to be added. You have a choice of company, appointment, packing list, user, purchase order or purchase order item.
 
 *FIELD TYPE: (Required) Choose the field type that this custom field refers to. The following are the field types available.
 
