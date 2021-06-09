@@ -15,7 +15,8 @@ module.exports = {
       'advanced/purchase-orders',
       'advanced/companies',
       'advanced/company-booking-permissions',
-      'advanced/closures',
+      'advanced/capacity-adjustments',
+  
       'advanced/products',
       'advanced/users',
       'advanced/docks',
